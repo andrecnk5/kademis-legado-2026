@@ -12,13 +12,16 @@ Neste momento:
 - o projeto legado **SGSA - Old** é apenas referência histórica;
 - a identidade visual está em definição controlada;
 - o **Master Development Playbook v1.0** está **APROVADO** como baseline metodológico;
-- a **Fase 0 — Governança do Projeto** ainda não foi iniciada e aguarda autorização explícita;
+- a **Fase 0 — Governança do Projeto** está **CONCLUÍDA — Gate 0 APROVADO**;
+- a **Fase 1 — Visão, Problema e Estratégia** ainda não foi iniciada e aguarda autorização explícita;
 - a arquitetura técnica e a stack ainda não foram escolhidas;
 - nenhuma estrutura de frontend, backend, banco ou infraestrutura foi criada.
 
 ## Documentação
 
 - [Master Development Playbook v1.0](docs/playbook/Kademis_Master_Development_Playbook_v1.0.md) — **APROVADO — BASELINE METODOLÓGICO**
+- [Governança do Projeto v1.0](docs/governance/Kademis_Governanca_v1.0.md) — **APROVADO — BASELINE DE GOVERNANÇA**
+- [Governança do Projeto v0.1](docs/governance/Kademis_Governanca_v0.1.md) — **HISTÓRICO**
 - [Master Development Playbook v0.1](docs/playbook/Kademis_Master_Development_Playbook_v0.1.md) — **HISTÓRICO**
 - [Diretriz de Identidade Visual v0.1](docs/brand/Kademis_Diretriz_Identidade_Visual_v0.1.md)
 
