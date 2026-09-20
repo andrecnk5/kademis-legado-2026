@@ -1003,9 +1003,9 @@ O responsável pelo projeto aprovou formalmente o Gate 2 em 20/09/2026.
 
 > **Gate 2 — APROVADO**
 
-A **Fase 2 — Negócio e Stakeholders está concluída em conteúdo**.
+A **Fase 2 — Negócio e Stakeholders está concluída**.
 
-A Fase 3 — Descoberta do Domínio não deve ser iniciada neste chat. Seu início dependerá de integração validada dos artefatos da Fase 2, handoff, novo chat, reconstrução do estado oficial e autorização explícita do responsável pelo projeto.
+A Fase 3 — Descoberta do Domínio não deve ser iniciada neste chat. Seu início dependerá de handoff, novo chat, reconstrução do estado oficial e autorização explícita do responsável pelo projeto.
 
 ---
 
