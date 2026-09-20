@@ -13,7 +13,8 @@ Neste momento:
 - a identidade visual está em definição controlada;
 - o **Master Development Playbook v1.0** está **APROVADO** como baseline metodológico;
 - a **Fase 0 — Governança do Projeto** está **CONCLUÍDA — Gate 0 APROVADO**;
-- a **Fase 1 — Visão, Problema e Estratégia** está **CONCLUÍDA EM CONTEÚDO — Gate 1 APROVADO**, aguardando integração do Product Charter na `main`;
+- a **Fase 1 — Visão, Problema e Estratégia** está **CONCLUÍDA — Gate 1 APROVADO**;
+- o **Product Charter v0.1** está integrado à `main` como **APROVADO — BASELINE ESTRATÉGICO DA FASE 1**;
 - a **Fase 2 — Negócio e Stakeholders** ainda não foi iniciada e dependerá de novo chat e autorização explícita;
 - a arquitetura técnica e a stack ainda não foram escolhidas;
 - nenhuma estrutura de frontend, backend, banco ou infraestrutura foi criada.

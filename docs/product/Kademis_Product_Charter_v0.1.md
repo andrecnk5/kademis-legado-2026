@@ -507,7 +507,7 @@ O responsável pelo projeto aprovou formalmente o Gate 1 em 20/09/2026.
 
 > **Gate 1 — APROVADO**
 
-A **Fase 1 — Visão, Problema e Estratégia está concluída em conteúdo**.
+A **Fase 1 — Visão, Problema e Estratégia está concluída**.
 
 A Fase 2 — Negócio e Stakeholders não deve ser iniciada neste chat e dependerá de novo chat, reconstrução do estado oficial e autorização explícita do responsável pelo projeto.
 
