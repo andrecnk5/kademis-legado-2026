@@ -1,14 +1,19 @@
 # Kademis — Governança do Projeto v0.1
 
 **Versão:** v0.1  
-**Status:** APROVADO — BASELINE DE GOVERNANÇA  
+**Status:** HISTÓRICO — SUBSTITUÍDO PELA v1.0  
 **Produto:** Kademis  
 **Projeto no ChatGPT:** Kademis  
 **Fase:** Fase 0 — Governança do Projeto  
 **Baseline metodológico:** Kademis Master Development Playbook v1.0  
 **Repositório oficial:** `andrecnk5/kademis`  
 **Branch principal:** `main`  
-**Data:** 19/09/2026
+**Data:** 19/09/2026  
+**Substituído por:** `Kademis_Governanca_v1.0.md`
+
+---
+
+> **Nota histórica:** esta versão registra o estágio de aprovação de conteúdo anterior à consolidação final do Gate 0. Não deve ser utilizada como baseline vigente. O baseline de Governança é a versão v1.0.
 
 ---
 
