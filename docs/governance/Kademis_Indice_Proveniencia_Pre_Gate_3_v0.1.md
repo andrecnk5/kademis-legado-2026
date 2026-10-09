@@ -65,15 +65,15 @@ As etiquetas 'comprovado no RDOC' e 'comprovado na CCD' significam **constataç�
 | Lotes 3–6 da Fase 3.9 | decisões/validações prospectivas na continuidade | PROSPECTIVAMENTE validados/aprovados nos respectivos recortes | nenhuma aprovação retroativa ao processo histórico original |
 | Fechamento 3.10 | consolidação conceitual com ressalvas | fechamento conceitual registrado | **não representa aprovação do Gate 3** |
 
-## 5. Controle dos 16 identificadores formais abertos
+## 5. Controle dos 16 identificadores formais (14 abertos, 2 baixas deliberadas)
 
-**Estado formal uniforme:** ABERTO. Não há baixa automática decorrente da recuperação de evidências nem da publicação deste índice.
+**Estado formal atualizado por deliberação humana CCD-03 de 09/10/2026:** 14 ABERTOS; 2 ENCERRAMENTOS FORMALMENTE DELIBERADOS (`P3.4-PEN-DOC-01` e `REC-3.8-06`). O registro das baixas no índice não equivale à recuperação literal integral das versões históricas. Nenhuma outra baixa automática é admitida.
 
 | Grupo | Identificador | Objeto indexado (síntese; não transcrição literal primária) | Situação documental/dependência principal | Evidência de continuidade | Estado formal |
 |---|---|---|---|---|---|
-| A — documental | P3.4-PEN-DOC-01 | Texto final das regras | 88/88 recuperados; versões históricas ressalvadas | RDOC-01, 01A, 01B, CCD-03 | ABERTO |
+| A — documental | P3.4-PEN-DOC-01 | Texto final das regras | 88/88 enunciados finais recuperados; versões preliminares históricas incompletas | RDOC-01, 01A, 01B; deliberação CCD-03 de 09/10/2026 | ENCERRAMENTO FORMAL DELIBERADO — ressalva histórica preservada |
 | A — documental | P3.7-PEN-DOC-02 | Validação documental real do Victorino | Evidência institucional por tipo não recuperada | RDOC-04 | ABERTO / não bloqueante |
-| A — documental | REC-3.8-06 | Absorções de eventos e refinamento | Relações primárias comprovadas; formulação inicial integral parcial | RDOC-03, CCD-02, CCD-03 | ABERTO |
+| A — documental | REC-3.8-06 | Absorções de eventos e refinamento | `EVT-EXEC-04→EVT-EXEC-02` e `EVT-DOC-05→EVT-DOC-04` ABSORVIDOS; `EVT-CONS-02` REFINADO, ID preservado; formulação original da REC parcial | RDOC-03, CCD-02; deliberação CCD-03 de 09/10/2026 | ENCERRAMENTO FORMAL DELIBERADO — ressalva literal preservada |
 | B — conceitual | REC-3.8-01 | Retorno e reativação | Temporalidade e distinção entre retorno/retificação | CCD-02 | ABERTO |
 | B — conceitual | REC-3.8-03 | Reabertura de Unidade Avaliativa | Autoridade, temporalidade e janela operacional | CCD-02 | ABERTO |
 | B — conceitual | REC-3.8-04 | Emissão x entrega de comunicação | Distinção comprovada; complementação só com lacuna real | CCD-02 | ABERTO |
@@ -88,7 +88,7 @@ As etiquetas 'comprovado no RDOC' e 'comprovado na CCD' significam **constataç�
 | C — jurídico/regimental | PEN-206 | Registros socioemocionais/privacidade | Finalidade, retenção, acesso e base aplicável | RDOC-05 | ABERTO |
 | D — roadmap | PEN-205 | Possível substituição do ClassApp | Avaliação de escopo própria da Fase 5 | RDOC-05 | ABERTO / ROADMAP |
 
-**Duas fichas técnicas disponíveis sem decisão de baixa:** CCD-03-F01 (`P3.4-PEN-DOC-01`); CCD-03-F02 (`REC-3.8-06`). A aprovação de uma ficha como instrumento documental não implica encerramento da pendência.
+**Deliberações CCD-03 concluídas em 09/10/2026:** F01 (`P3.4-PEN-DOC-01`) — alternativa A; F02 (`REC-3.8-06`) — alternativa A, ambas com autorização expressa de encerramento formal e preservação das ressalvas. A baixa não decorre automaticamente da existência das fichas, mas do ato humano posterior, registrado em `KADEMIS_CCD-03_Registro_Deliberacao_F01_F02_20261009.md` (fonte externa, não presumida publicada na `main`).
 
 ## 6. Lacunas de cobertura e prioridades propostas
 
@@ -111,7 +111,7 @@ As etiquetas 'comprovado no RDOC' e 'comprovado na CCD' significam **constataç�
 3. Preservar origem, autoria, contexto, timestamps realmente comprovados e classes de evidência.
 4. Evitar links internos quebrados: arquivos ainda não integrados ao repositório devem ser mencionados como **fontes externas/locais pendentes de publicação**, não com links relativos fictícios.
 5. Preservar versões históricas e IDs absorvidos, sem renumerar catálogos.
-6. Garantir contagem exata de **16/16 identificadores abertos** e o caráter condicional de pendências/regimes.
+6. Garantir contagem de **16 identificadores totais: 14 abertos + 2 com encerramento formal deliberado**, preservando as condicionantes e a autoria das decisões.
 7. Submeter diff completo e solicitar autorização específica antes de branch, commit ou PR; merge exige autorização posterior independente.
 8. Não atualizar qualquer status de Gate ou fase.
 
@@ -121,7 +121,7 @@ As etiquetas 'comprovado no RDOC' e 'comprovado na CCD' significam **constataç�
 - [x] Registrado o PR #7 já integrado, sem atribuir integração aos demais relatórios.
 - [x] Indexados os 13 instrumentos derivados efetivamente acessíveis.
 - [x] Classificados resultados de regras, invariantes, eventos, estados, exceções e temporalidade.
-- [x] Catalogados **16 identificadores**, sem alteração formal.
+- [x] Catalogados **16 identificadores**; duas baixas deliberadas expressamente em CCD-03, 14 abertos.
 - [x] Explicitadas cobertura parcial e dependências remanescentes.
 - [x] Evitados links de GitHub inexistentes para os relatórios.
 - [x] Publicação integrada à `main` pelo PR #8; demais documentos e pendências inalterados.
@@ -131,7 +131,7 @@ As etiquetas 'comprovado no RDOC' e 'comprovado na CCD' significam **constataç�
 - [ ] Validar a redação e a taxonomia das situações documentais.
 - [ ] Confirmar se o caminho candidato do índice é adequado; proposta não é decisão de estrutura.
 - [ ] Confirmar se é aceitável referenciar relatórios ainda não publicados por seus nomes locais, sem links.
-- [ ] Conferir os 16 IDs e ressalvas, sem declarar baixa formal.
+- [ ] Conferir os 16 IDs e ressalvas, incluindo o ato formal de duas baixas deliberadas; nenhuma das outras 14 pendências deve ser encerrada.
 - [ ] Autorizar separadamente eventual preparação de PR (não confundir com aprovação da minuta).
 
 ## 10. Encerramento
@@ -139,6 +139,6 @@ As etiquetas 'comprovado no RDOC' e 'comprovado na CCD' significam **constataç�
 **PSD-I02:** CONTEÚDO VALIDADO E APROVADO; PR #8 INTEGRADO À `main` (squash commit `fd1a08f280f1a91b7fd734ce5eb8d252e900b950`).  
 **PSD-I01:** PR #7 integrado à `main`, sem impacto nos Gates.  
 **PSD-I03/I04:** não iniciados.  
-**16 identificadores:** ABERTOS.  
+**16 identificadores originais:** 14 ABERTOS + 2 COM ENCERRAMENTO FORMAL DELIBERADO (CCD-03, 09/10/2026).  
 **Gate 3:** NÃO AVALIADO. **Fase 4:** NÃO INICIADA.  
 **GitHub:** índice integrado à `main` pelo PR #8; correção editorial pós-merge submetida separadamente. **Figma:** inalterado.
