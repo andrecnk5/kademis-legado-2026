@@ -1,11 +1,11 @@
 # KADEMIS — PSD-I02
-## MINUTA — Índice de Proveniência e Situação Documental Pré-Gate 3
+## Índice de Proveniência e Situação Documental Pré-Gate 3
 
 **Produzido em:** 09/10/2026  
-**Estado:** PROPOSTO — MINUTA PARA REVISÃO HUMANA; NÃO PUBLICADO NO GITHUB  
+**Estado:** CONTEÚDO APROVADO — PUBLICADO NA BRANCH DE REVISÃO DO PR #8; NÃO INTEGRADO À `main`  
 **Referência:** PSD-01 validado; CCD-01 e CCD-04 validados; RDOC-05 validado; Playbook v1.0 aprovado.  
-**Destino candidato no repositório:** `docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md` — **PROPOSTO, NÃO EXISTENTE/NÃO APROVADO**.  
-**Autorização de escrita GitHub:** NÃO CONCEDIDA PARA ESTE INCREMENTO.  
+**Caminho de publicação aprovado:** `docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md` — **EXISTENTE NA BRANCH DO PR #8; INTEGRAÇÃO À `main` PENDENTE**.  
+**Autorização de escrita GitHub:** CONCEDIDA PARA BRANCH, COMMIT E PR #8; MERGE NÃO AUTORIZADO.  
 
 ## 1. Finalidade, leitura e autoridade
 
@@ -115,7 +115,7 @@ As etiquetas 'comprovado no RDOC' e 'comprovado na CCD' significam **constataç�
 7. Submeter diff completo e solicitar autorização específica antes de branch, commit ou PR; merge exige autorização posterior independente.
 8. Não atualizar qualquer status de Gate ou fase.
 
-## 8. Checklist técnico da minuta
+## 8. Checklist técnico do índice
 
 - [x] Separadas fontes primárias, derivadas e materialização no GitHub.
 - [x] Registrado o PR #7 já integrado, sem atribuir integração aos demais relatórios.
@@ -124,7 +124,7 @@ As etiquetas 'comprovado no RDOC' e 'comprovado na CCD' significam **constataç�
 - [x] Catalogados **16 identificadores**, sem alteração formal.
 - [x] Explicitadas cobertura parcial e dependências remanescentes.
 - [x] Evitados links de GitHub inexistentes para os relatórios.
-- [x] Nenhuma escrita externa executada nesta PSD-I02.
+- [x] Publicação restrita à branch do PR #8; nenhuma alteração à `main` nesta PSD-I02.
 
 ## 9. Checklist de validação humana
 
@@ -136,9 +136,9 @@ As etiquetas 'comprovado no RDOC' e 'comprovado na CCD' significam **constataç�
 
 ## 10. Encerramento
 
-**PSD-I02:** MINUTA LOCAL PRODUZIDA, AGUARDANDO VALIDAÇÃO HUMANA.  
+**PSD-I02:** CONTEÚDO VALIDADO E APROVADO; PR #8 ABERTO, AGUARDANDO DELIBERAÇÃO DE MERGE.  
 **PSD-I01:** PR #7 integrado à `main`, sem impacto nos Gates.  
 **PSD-I03/I04:** não iniciados.  
 **16 identificadores:** ABERTOS.  
 **Gate 3:** NÃO AVALIADO. **Fase 4:** NÃO INICIADA.  
-**GitHub/Figma:** sem alterações nesta execução.
+**GitHub:** arquivo adicionado à branch do PR #8, sem merge. **Figma:** inalterado.
