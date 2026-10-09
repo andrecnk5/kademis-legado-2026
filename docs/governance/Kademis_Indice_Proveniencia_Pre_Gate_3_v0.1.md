@@ -2,10 +2,10 @@
 ## Índice de Proveniência e Situação Documental Pré-Gate 3
 
 **Produzido em:** 09/10/2026  
-**Estado:** CONTEÚDO APROVADO — PUBLICADO NA BRANCH DE REVISÃO DO PR #8; NÃO INTEGRADO À `main`  
+**Estado:** CONTEÚDO APROVADO — INTEGRADO À `main` PELO PR #8  
 **Referência:** PSD-01 validado; CCD-01 e CCD-04 validados; RDOC-05 validado; Playbook v1.0 aprovado.  
-**Caminho de publicação aprovado:** `docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md` — **EXISTENTE NA BRANCH DO PR #8; INTEGRAÇÃO À `main` PENDENTE**.  
-**Autorização de escrita GitHub:** CONCEDIDA PARA BRANCH, COMMIT E PR #8; MERGE NÃO AUTORIZADO.  
+**Caminho de publicação aprovado:** `docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md` — **INTEGRADO À `main` PELO PR #8**.  
+**Autorização de escrita GitHub:** BRANCH, COMMIT, PR #8 E MERGE AUTORIZADOS E EXECUTADOS.  
 
 ## 1. Finalidade, leitura e autoridade
 
@@ -124,7 +124,7 @@ As etiquetas 'comprovado no RDOC' e 'comprovado na CCD' significam **constataç�
 - [x] Catalogados **16 identificadores**, sem alteração formal.
 - [x] Explicitadas cobertura parcial e dependências remanescentes.
 - [x] Evitados links de GitHub inexistentes para os relatórios.
-- [x] Publicação restrita à branch do PR #8; nenhuma alteração à `main` nesta PSD-I02.
+- [x] Publicação integrada à `main` pelo PR #8; demais documentos e pendências inalterados.
 
 ## 9. Checklist de validação humana
 
@@ -136,9 +136,9 @@ As etiquetas 'comprovado no RDOC' e 'comprovado na CCD' significam **constataç�
 
 ## 10. Encerramento
 
-**PSD-I02:** CONTEÚDO VALIDADO E APROVADO; PR #8 ABERTO, AGUARDANDO DELIBERAÇÃO DE MERGE.  
+**PSD-I02:** CONTEÚDO VALIDADO E APROVADO; PR #8 INTEGRADO À `main` (squash commit `fd1a08f280f1a91b7fd734ce5eb8d252e900b950`).  
 **PSD-I01:** PR #7 integrado à `main`, sem impacto nos Gates.  
 **PSD-I03/I04:** não iniciados.  
 **16 identificadores:** ABERTOS.  
 **Gate 3:** NÃO AVALIADO. **Fase 4:** NÃO INICIADA.  
-**GitHub:** arquivo adicionado à branch do PR #8, sem merge. **Figma:** inalterado.
+**GitHub:** índice integrado à `main` pelo PR #8; correção editorial pós-merge submetida separadamente. **Figma:** inalterado.
