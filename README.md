@@ -16,7 +16,7 @@ Neste momento:
 - a **Fase 1 — Visão, Problema e Estratégia** está **CONCLUÍDA — Gate 1 APROVADO**;
 - o **Product Charter v0.1** está integrado à `main` como **APROVADO — BASELINE ESTRATÉGICO DA FASE 1**;
 - a **Fase 2 — Negócio e Stakeholders** está **CONCLUÍDA — Gate 2 APROVADO**;
-- a **Fase 3 — Descoberta do Domínio** possui trabalho conceitual documentado nas subfases 3.1–3.10, com decisões validadas e ressalvas preservadas; a reconciliação documental Pré-Gate 3 está em andamento, com **16 identificadores formais ainda abertos**; o **Gate 3 não foi avaliado nem aprovado** e a **Fase 4 não foi iniciada**;
+- a **Fase 3 — Descoberta do Domínio** possui trabalho conceitual documentado nas subfases 3.1–3.10, com decisões validadas e ressalvas preservadas; o **Gate 3 foi APROVADO COM RESSALVAS NÃO BLOQUEANTES** em 10/10/2026; o controle formal mantém **14 identificadores abertos e 2 encerramentos formalmente deliberados**; a **Fase 4 não foi iniciada** e depende de autorização específica;
 - a arquitetura técnica e a stack ainda não foram escolhidas;
 - nenhuma estrutura de frontend, backend, banco ou infraestrutura foi criada.
 
