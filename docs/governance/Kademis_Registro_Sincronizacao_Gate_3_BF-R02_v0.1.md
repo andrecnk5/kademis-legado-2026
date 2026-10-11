@@ -8,11 +8,11 @@
 
 ## 1. Finalidade e precedência
 
-Este registro proposto sincroniza, em um documento administrativo, dois atos distintos já deliberados pelo responsável pelo Kademis: a aprovação do Gate 3 com ressalvas e o aceite documental/encerramento administrativo da BF-R02. A proximidade temporal não funde os atos nem amplia seus objetos.
+Este registro documenta, em um instrumento administrativo, dois atos distintos já deliberados pelo responsável pelo Kademis: a aprovação do Gate 3 com ressalvas e o aceite documental/encerramento administrativo da BF-R02. A proximidade temporal não funde os atos nem amplia seus objetos.
 
-Os baselines metodológico e de governança permanecem vigentes e inalterados: [Master Development Playbook v1.0](../playbook/Kademis_Master_Development_Playbook_v1.0.md) e [Governança v1.0](Kademis_Governanca_v1.0.md). O controle dos identificadores formais permanece no [PSD-I02](Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md), sem modificação proposta.
+Os baselines metodológico e de governança permanecem vigentes e inalterados: [Master Development Playbook v1.0](../playbook/Kademis_Master_Development_Playbook_v1.0.md) e [Governança v1.0](Kademis_Governanca_v1.0.md). O controle dos identificadores formais permanece no [PSD-I02](Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md), sem alteração nesta sincronização.
 
-A presença futura deste registro no GitHub não deverá ser interpretada como aprovação de cada texto de domínio, catálogo, oportunidade funcional ou decisão de fase. Os registros locais de origem e seus atos humanos continuam distinguíveis.
+A presença deste registro no GitHub não constitui, por si só, aprovação de cada texto de domínio, catálogo, oportunidade funcional ou decisão de fase. Os registros locais de origem e seus atos humanos continuam distinguíveis.
 
 ## 2. Ato G3-DEC01 — deliberação humana do Gate 3
 
@@ -34,7 +34,7 @@ O parecer G3-AV01 conserva seu estado histórico de parecer técnico anterior à
 - **Resultado:** **ACEITE DOCUMENTAL APROVADO COM RESSALVAS; EXECUÇÃO BF-R02 ENCERRADA ADMINISTRATIVAMENTE**.
 - **Alcance dos entregáveis:** C1 é um catálogo de 12 oportunidades **PROPOSTAS**; C2 é uma matriz de rastreabilidade/destinação dos 16 IDs; C3 é um adendo de handoff. O aceite não aprova as oportunidades individualmente como requisitos, produto/MVP ou implementação.
 - **Estados preservados:** 14 IDs continuam ABERTOS; dois continuam com encerramento formal deliberado; o Gate 3 permanece aprovado com ressalvas e não foi reavaliado pela BF-R02.
-- **Limite executivo:** o ato BF-R02, isoladamente, não autorizou GitHub/Figma, implementação, fechamento de pendências, abertura da Fase 4 ou Fase 5. A presente minuta de sincronização é preparada sob contrato GH-SYNC01 separado e não efetua qualquer escrita remota.
+- **Limite executivo:** o ato BF-R02, isoladamente, não autorizou GitHub/Figma, implementação, fechamento de pendências, abertura da Fase 4 ou Fase 5. A sincronização deste registro está vinculada ao contrato GH-SYNC01, independente do aceite BF-R02; o registro não autoriza outras escritas no repositório.
 
 ## 4. Estado de controle consolidado para leitura
 
@@ -45,13 +45,13 @@ O parecer G3-AV01 conserva seu estado histórico de parecer técnico anterior à
 | BF-R02 | ACEITA DOCUMENTALMENTE COM RESSALVAS e ENCERRADA ADMINISTRATIVAMENTE | Encerramento da atividade; as 12 oportunidades seguem propostas. |
 | Fase 4 | NÃO INICIADA | Depende de autorização específica. |
 | docs/domain | Nenhuma publicação nem aprovação individual inferida | Catálogos candidatos não são elevados a baseline por esta sincronização. |
-| Baselines Playbook/Governança | Preservados | Nenhuma alteração de versão ou conteúdo proposta. |
+| Baselines Playbook/Governança | Preservados | Nenhuma versão ou conteúdo dos baselines foi alterado nesta sincronização. |
 
 ## 5. Fontes e identidade documental
 
 ### Baselines oficiais consultados na main em 10/10/2026
 
-- README.md, blob cd1e072d6951b846256db53ff407a0780a038146 — estado editorial existente antes desta minuta.
+- README.md, blob cd1e072d6951b846256db53ff407a0780a038146 — estado editorial anterior à sincronização.
 - docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md, blob 9426de54e8dcc8a2bfae761fabf317a4941ee14f — controle formal 14 + 2.
 - docs/playbook/Kademis_Master_Development_Playbook_v1.0.md, blob a433d8a218190aba5cffc8a90b5502a49f11a92a — baseline metodológico aprovado.
 - docs/governance/Kademis_Governanca_v1.0.md, blob 05fe245eb975d5aaa4529f84cb29cf1ef9fcb737 — governança vigente.
