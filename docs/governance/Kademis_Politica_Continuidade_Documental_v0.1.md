@@ -1,17 +1,17 @@
 # Kademis — Política de Continuidade Autônoma e Preservação do Conhecimento v0.1
 
 **Identificador da diretriz:** GOV-CONT-01  
-**Versão do artefato:** 0.1 — proposta de formalização documental  
-**Estado decisório:** PRINCÍPIO E ESTRATÉGIAS A–F APROVADOS PELO RESPONSÁVEL no chat de continuidade, em 11/10/2026  
-**Estado editorial:** MINUTA NORMATIVA EM REVISÃO; TEXTO AINDA NÃO APROVADO COMO BASELINE; A PRESENÇA NO GITHUB NÃO IMPLICA APROVAÇÃO
+**Versão do artefato:** 0.1 — texto normativo aprovado; versão preservada sem promoção automática a v1.0  
+**Estado decisório:** PRINCÍPIO GOV-CONT-01, ESTRATÉGIAS A–F E REDAÇÃO NORMATIVA v0.1 APROVADOS PELO RESPONSÁVEL EM 11/10/2026, EM ATOS HUMANOS DISTINTOS  
+**Estado editorial:** TEXTO NORMATIVO v0.1 APROVADO E INTEGRADO À `main` PELO PR #12 EM 11/10/2026; SEM ALTERAÇÃO AUTOMÁTICA PARA v1.0
 **Produto:** Kademis  
 **Repositório:** `andrecnk5/kademis`  
-**Caminho candidato:** `docs/governance/Kademis_Politica_Continuidade_Documental_v0.1.md`  
+**Caminho publicado:** `docs/governance/Kademis_Politica_Continuidade_Documental_v0.1.md`  
 **Autoridade superior:** Master Development Playbook v1.0 e Governança v1.0 — APROVADOS  
 **Data do despacho conceitual:** 11/10/2026  
 **Fase 4:** NÃO INICIADA
 
-> A aprovação humana do princípio não equivale à aprovação retroativa das fontes derivadas, a autorização irrestrita de GitHub, à atualização automática dos baselines ou ao início da Fase 4. Esta minuta traduz a diretriz aprovada para um procedimento verificável e requer revisão antes da integração.
+> A aprovação humana do princípio e da redação normativa não equivale à aprovação retroativa das fontes derivadas, a autorização irrestrita de GitHub, à atualização automática dos demais baselines ou ao início da Fase 4. Esta política complementar v0.1 foi aprovada pelo responsável e integrada à `main` pelo PR #12, preservadas as ressalvas e as competências dos Gates.
 
 ## 1. Objetivo e regra fundamental
 
@@ -103,4 +103,4 @@ Incrementos propostos: D0 formalização; D1 inventário; D2 recuperação mater
 - [ ] Revisão independente e avaliação de dados sensíveis concluídas antes de merge.
 - [ ] Rota documental capaz de permitir continuidade sem chats demonstrada no teste futuro D5.
 
-**Decisão solicitada:** avaliar e aprovar explicitamente esta redação normativa, considerando a revisão independente; a integração à main dependerá de autorização específica de merge. A existência deste documento em um PR não supre tais deliberações.
+**Registro de aprovação e integração:** a redação normativa GOV-CONT-01 v0.1 foi aprovada expressamente pelo responsável após AUD-02; o inventário D1 foi aceito como levantamento inicial com ressalvas. O squash merge do PR #12 foi autorizado e executado em 11/10/2026 (`e7375285a7e6e19c43e6f0fa77363f36d7bbc098`) e validado pela AUD-03. Esta reconciliação editorial AUT-ED-01 não altera o texto normativo, não encerra pendências documentais, não inicia D2–D5 ou Fase 4 e não autoriza outras operações de GitHub.
