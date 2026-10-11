@@ -3,7 +3,7 @@
 **Identificador da diretriz:** GOV-CONT-01  
 **Versão do artefato:** 0.1 — proposta de formalização documental  
 **Estado decisório:** PRINCÍPIO E ESTRATÉGIAS A–F APROVADOS PELO RESPONSÁVEL no chat de continuidade, em 11/10/2026  
-**Estado editorial:** PROPOSTO PARA REVISÃO, MATERIALIZAÇÃO E APROVAÇÃO DO TEXTO NORMATIVO; NÃO PUBLICADO  
+**Estado editorial:** MINUTA NORMATIVA EM REVISÃO; TEXTO AINDA NÃO APROVADO COMO BASELINE; A PRESENÇA NO GITHUB NÃO IMPLICA APROVAÇÃO
 **Produto:** Kademis  
 **Repositório:** `andrecnk5/kademis`  
 **Caminho candidato:** `docs/governance/Kademis_Politica_Continuidade_Documental_v0.1.md`  
@@ -103,4 +103,4 @@ Incrementos propostos: D0 formalização; D1 inventário; D2 recuperação mater
 - [ ] Revisão independente e avaliação de dados sensíveis concluídas antes de merge.
 - [ ] Rota documental capaz de permitir continuidade sem chats demonstrada no teste futuro D5.
 
-**Decisão solicitada:** avaliar esta redação para aprovação documental e eventual publicação em PR próprio. Não há autorização de merge inferida deste arquivo.
+**Decisão solicitada:** avaliar e aprovar explicitamente esta redação normativa, considerando a revisão independente; a integração à main dependerá de autorização específica de merge. A existência deste documento em um PR não supre tais deliberações.
