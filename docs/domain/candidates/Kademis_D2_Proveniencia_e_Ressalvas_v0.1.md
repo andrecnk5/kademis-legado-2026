@@ -1,6 +1,6 @@
 # Kademis — Proveniência e ressalvas D2 v0.1 (CANDIDATO)
 
-**ESTADO: CANDIDATO / EM REVISÃO POR PR. NÃO INTEGRADO À `main`. NÃO É BASELINE DE DOMÍNIO.**
+**ESTADO: CANDIDATO / PUBLICADO NA `main` PELO PR #14 EM 13/10/2026. NÃO É BASELINE DE DOMÍNIO.**
 
 ## Autoridade e integridade
 
@@ -14,7 +14,7 @@
 - D2-REC-05 ZIP final: SHA-256 `90b030897ddcfd5fbd4b91116394c1499df6fa9b2e376d48571ecdb13906d667`, 47 entradas, CRC sem erro; manifesto principal 45/45, preparatório 7/7 e D2-REC-04 aninhado 72/72 conferidos por auditoria.
 - AUD-D2-05 e adendo de integridade: APROVADOS pelo responsável, com ressalvas; isso não aprova um catálogo canônico.
 - D2-SUF-01: orientação editorial APROVADA em 13/10/2026 pela resposta humana “Aprovado, autorizado, siga”; essa aprovação inicial era limitada à preparação editorial, **não à publicação**.
-- D2-PUB-01 / PR A: autorização posterior, expressa no chat de Governança, para prosseguir com branch, commit, push e abertura de PR contendo somente estes dois documentos; **merge permanece pendente de autorização separada**.
+- D2-PUB-01 / PR A (#14): criação da branch, commits e abertura do PR dos dois documentos autorizadas pelo responsável. Após revisão humana, o **squash merge recebeu autorização específica e distinta**, foi executado e confirmado na `main` em 13/10/2026, commit `be4310a85124d8f7ecb0cd4cc5e5c70ebc4a9255`. A integração editorial não aprova catálogo canônico nem encerra D2.
 
 ## Lacunas A/B/C — NÃO RESOLVIDAS
 
