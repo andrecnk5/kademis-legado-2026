@@ -1,13 +1,13 @@
 # Kademis — Índice de recuperação documental D2 v0.1 (CANDIDATO)
 
-**ESTADO: CANDIDATO / EM REVISÃO POR PR. NÃO INTEGRADO À `main`. NÃO É BASELINE DE DOMÍNIO.**
+**ESTADO: CANDIDATO / PUBLICADO NA `main` PELO PR #14 EM 13/10/2026. NÃO É BASELINE DE DOMÍNIO.**
 
 **Fase:** 3 — descoberta de domínio, documentação posterior DOC-AUTOSUF-01/D2.  
 **Autoridade superior:** Playbook v1.0 e Governança v1.0, ambos aprovados.  
 **Fonte de conteúdo:** I03-R05 candidata reconciliada no D2-REC-04, preservada integralmente.  
 **SHA-256 da fonte:** `223c9ac144c16b4edf99a3fffc20ec1b77e4c4732ed6e3f922c597405466843e`.  
-**Snapshot da `main` consultado:** `61e6d8584b53f323a55908ec277b6c81d61a81c1` (13/10/2026).  
-**Estado editorial:** PROPOSTO para revisão. A abertura de PR A (somente índice e proveniência) foi autorizada em 13/10/2026; o merge depende de autorização separada. A futura publicação do CSV de 488 registros depende de revisão humana de privacidade.
+**Snapshot histórico da `main` (anterior ao PR #14):** `61e6d8584b53f323a55908ec277b6c81d61a81c1` (13/10/2026). **Commit de integração:** `be4310a85124d8f7ecb0cd4cc5e5c70ebc4a9255`.  
+**Estado editorial:** CANDIDATO PUBLICADO PARA CONSULTA E RASTREABILIDADE (NÃO HOMOLOGADO COMO CATÁLOGO CANÔNICO). A abertura do PR #14 e seu squash merge foram autorizados em atos humanos distintos; integração confirmada em 13/10/2026 no commit identificado acima. A publicação futura do CSV de 488 registros depende de revisão humana de privacidade e autorização específica.
 
 ## Significado das classificações
 
