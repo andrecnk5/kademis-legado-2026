@@ -1,12 +1,12 @@
 # KADEMIS — D2-SUF-01/B — Adendo de proveniência de `EVT-EXEC-10` v0.1
 
-**ESTADO EDITORIAL: MINUTA CANDIDATA — PREPARADA LOCALMENTE; TEXTO AINDA NÃO HOMOLOGADO OU PUBLICADO.**  
+**ESTADO EDITORIAL: REDAÇÃO REVISADA E APROVADA PELO RESPONSÁVEL EM 15/10/2026; ADENDO DOCUMENTAL DE PROVENIÊNCIA v0.1, SEM HOMOLOGAÇÃO CANÔNICA DO EVENTO OU DO CATÁLOGO.**  
 **Data:** 15/10/2026 (referência documental, America/Sao_Paulo)  
 **Objeto:** `EVT-EXEC-10 — Justificativa de Ausência Decidida`  
 **Escopo metodológico:** recuperação e qualificação de provas, sem nova descoberta de domínio.  
 **Autoridade superior:** *Kademis Master Development Playbook v1.0 — APROVADO*, Governança v1.0 e GOV-CONT-01 v0.1, preservando a hierarquia de fontes.  
-**Decisão humana desta etapa:** parecer complementar pós-Fase 3.8 **APROVADO** e **preparação deste adendo AUTORIZADA** pelo responsável. **Não há autorização específica nesta etapa para criar branch, commit, PR ou merge.**  
-**Caminho sugerido para eventual publicação, ainda NÃO existente no remoto:** `docs/domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md`.
+**Decisões humanas documentadas:** parecer complementar pós-Fase 3.8 **APROVADO**, preparação e redação integral deste adendo **APROVADAS**; publicação por branch, commit e PR #17 autorizada em 15/10/2026, seguida de autorização específica para correção destes metadados editoriais e merge, condicionada às verificações técnicas. Essas autorizações não homologam o evento individualmente nem encerram lacunas probatórias.  
+**Caminho editorial do PR #17:** `docs/domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md` (**arquivo adicional**, sem substituição de baselines; [PR #17](https://github.com/andrecnk5/kademis/pull/17)).
 
 ## 1. Propósito e limite decisório
 
@@ -102,7 +102,7 @@ O encerramento se refere **somente ao acompanhamento institucional da situação
 
 `EVT-EXEC-10 — Justificativa de Ausência Decidida` aparece como complemento nominal no fechamento da Fase 3.7, após aprovação humana em bloco da transição `EST-JUST-01 → EST-JUST-02`. Na mensagem inicial da Fase 3.8, o responsável listou nominalmente o evento entre complementações que declarou “APROVADOS conceitualmente para reconciliação da 3.6”. Portanto, a **manifestação humana nominal em 3.8 está documentada**, enquanto a **cadeia originária de aprovação específica do evento na 3.7 permanece não localizada**. Não atribuir aprovação retroativa à manifestação anterior sobre a transição e não converter a aprovação das oito recomendações do Lote 2 de 3.8 em aprovação individual do evento.
 
-**Estado desta redação:** PROPOSTO PARA VALIDAÇÃO HUMANA; não promover automaticamente a um baseline de domínio.
+**Estado desta redação:** REVISTA E APROVADA PELO RESPONSÁVEL em 15/10/2026 como síntese documental de proveniência; não promover automaticamente a um baseline de domínio.
 
 ## 6. Fontes, linhagem e acesso
 
@@ -142,15 +142,16 @@ Fontes copiadas neste pacote em `FONTES_RECEBIDAS_PRESERVADAS/` mantêm os bytes
 - [x] Hash do relatório 3.8 conferido com manifesto do seu produtor.
 - [x] Catálogo I03-R05 v0.1 e seus campos auditados, com SHA-256 esperado.
 - [x] Adendo produzido em arquivo independente; cópias de fontes com integridade registrada.
-- [ ] Validação humana da **redação integral do adendo** (pendente).
-- [ ] Revisão de confidencialidade e permissões de eventuais fontes a publicar (pendente).
-- [ ] Autorização de branch/commit/PR após revisão do texto (pendente).
-- [ ] Aprovação separada de merge, caso haja PR (pendente).
+- [x] Validação humana da **redação integral do adendo** (15/10/2026).
+- [x] Triagem lexical básica de confidencialidade **deste adendo** na submissão ao PR #17; não equivale a revisão jurídica ou exaustiva.
+- [ ] Revisão de permissões e confidencialidade de **fontes adicionais**, somente se houver publicação posterior delas.
+- [x] Autorização de branch/commit/PR após revisão textual, exercida no PR #17 em 15/10/2026.
+- [x] Aprovação de merge posterior à abertura do PR #17, concedida em 15/10/2026 com a aprovação das correções editoriais; execução sujeita à conferência do diff e do HEAD.
 
 ### Limite de autorização
 - [x] Recebimento do parecer complementar com ressalvas e preparação documental autorizados.
-- [x] Preparação local de adendo, matriz e handoff.
-- [ ] Publicação e/ou mudança de arquivo no GitHub — NÃO AUTORIZADA AUTOMATICAMENTE.
+- [x] Preparação local de adendo, matriz e handoff; redação integral posteriormente aprovada.
+- [x] Publicação **deste adendo** por PR #17: branch/commit/PR e merge autorizados por atos humanos posteriores à minuta, condicionados à revisão; outras alterações no GitHub não estão autorizadas.
 - [ ] Consolidação de classificação canônica, baixa de pendências, avanço de Fase — NÃO AUTORIZADOS.
 
-**Ponto de parada:** minuta do adendo disponível para revisão humana. Nenhum GitHub write e nenhuma modificação de fonte/baseline.
+**Ponto de parada:** adendo documental revisado e aprovado para integração pelo PR #17; este documento não altera o CSV I03-R05, PSD-I02, decisões canônicas ou outros baselines. Qualquer novo delta de domínio requer autorização específica.
