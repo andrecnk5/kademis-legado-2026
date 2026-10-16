@@ -31,6 +31,8 @@ Neste momento:
 - [Diretriz de Identidade Visual v0.1](docs/brand/Kademis_Diretriz_Identidade_Visual_v0.1.md)
 - [D2-SUF-01 — Consolidação documental A/B/C](docs/governance/d2-suf-01/README.md) — **recebida com ressalvas; D2 PARCIAL; fontes primárias ainda pendentes**
 
+- [Evidências documentais — Lote 01](docs/governance/evidence/lote-01/README.md) — dez fontes históricas, com hashes, limites e estado temporal preservados.
+
 ## Princípios de trabalho
 
 O projeto evolui por fases, checklists e gates de aprovação. Decisões relevantes devem ser rastreáveis e validadas antes de se tornarem baseline.
