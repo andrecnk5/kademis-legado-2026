@@ -33,6 +33,8 @@ Neste momento:
 
 - [Evidências documentais — Lote 01](docs/governance/evidence/lote-01/README.md) — dez fontes históricas, com hashes, limites e estado temporal preservados.
 
+- [Evidências documentais — Lote 02](docs/governance/evidence/lote-02-invariantes/README.md) — fontes de invariantes e controle estável das limitações, sem repetição de recuperações sem fato novo.
+
 ## Princípios de trabalho
 
 O projeto evolui por fases, checklists e gates de aprovação. Decisões relevantes devem ser rastreáveis e validadas antes de se tornarem baseline.
