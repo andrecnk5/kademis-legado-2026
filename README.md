@@ -35,6 +35,8 @@ Neste momento:
 
 - [Evidências documentais — Lote 02](docs/governance/evidence/lote-02-invariantes/README.md) — fontes de invariantes e controle estável das limitações, sem repetição de recuperações sem fato novo.
 
+- [Evidências documentais — Lote 03](docs/governance/evidence/lote-03-fontes-dominio/README.md) — fontes já recuperadas de glossário, objetos, estados e transições, com ressalvas históricas preservadas.
+
 ## Princípios de trabalho
 
 O projeto evolui por fases, checklists e gates de aprovação. Decisões relevantes devem ser rastreáveis e validadas antes de se tornarem baseline.
