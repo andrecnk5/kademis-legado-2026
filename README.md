@@ -51,6 +51,8 @@ Neste momento:
 
 - [Continuidade documental — comece aqui](docs/governance/continuity/README.md) — estado, fontes, autorização contínua e verificação de recuperação.
 
+- [Evidências documentais — Lote 10](docs/governance/evidence/lote-10-complementos-dominio/README.md) — processos, relatórios de glossário/objetos e encerramento histórico3.10.
+
 ## Princípios de trabalho
 
 O projeto evolui por fases, checklists e gates de aprovação. Decisões relevantes devem ser rastreáveis e validadas antes de se tornarem baseline.
