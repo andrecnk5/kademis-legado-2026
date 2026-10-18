@@ -49,6 +49,8 @@ Neste momento:
 
 - [Evidências documentais — Lote 09](docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md) — deltas, inventários e relatórios históricos D2-REC-04/05.
 
+- [Continuidade documental — comece aqui](docs/governance/continuity/README.md) — estado, fontes, autorização contínua e verificação de recuperação.
+
 ## Princípios de trabalho
 
 O projeto evolui por fases, checklists e gates de aprovação. Decisões relevantes devem ser rastreáveis e validadas antes de se tornarem baseline.
