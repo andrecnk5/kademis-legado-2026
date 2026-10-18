@@ -26,6 +26,7 @@ Fotografia de referência: 18/10/2026, main `40bc0afadc2347424f5451dffa988eefdea
 | Matrizes 334×19, deltas e proveniência D2-REC-03 | [Lote 07](../evidence/lote-07-trilha-d2-rec-03/README.md) |
 | Propostas históricas Playbook/Stakeholders e fontes A/A2/B | [Lote 08](../evidence/lote-08-historico-e-suf/README.md) |
 | D2-REC-04/05, reconciliação, conflitos e custódia | [Lote 09](../evidence/lote-09-trilha-d2-rec-04-05/README.md) |
+| Complementos de glossário, processos, objetos e encerramento conceitual 3.10 | [Lote 10](../evidence/lote-10-complementos-dominio/README.md) |
 
 Os lotes são organização editorial de preservação, não novos IDs canônicos ou aprovações de domínio. A data do relatório histórico pode anteceder um ato posterior: não executar STOP, pedido de coleta ou agenda antiga automaticamente. Preservar o documento e consultar o controle posterior.
 
@@ -38,3 +39,7 @@ André definiu guarda sob sua responsabilidade no Google Drive pessoal e enquadr
 Continuar confronto do corpus material e custódia, preservação do que já existe e preparação dos contratos/roteiros D3–D5 dentro da autorização contínua. Nenhuma nova decisão substantiva ou aprovação humana é criada por essa autorização. Não iniciar Fase 4, escolher stack ou encerrar pendências formais por inferência.
 
 Não repetir recuperação sem peça exata faltante, evidência examinada, fonte/fato novo e critério verificável. A ausência de prova perfeita de todos os turnos não é condição universal de bloqueio; suficiência depende do uso e da autoridade competente. Não declarar o espelho concluído enquanto a reconstrução independente e as fronteiras essenciais não estiverem demonstradas.
+
+## Preparação da avaliação sem chats — 18/10/2026
+
+A [instrução de avaliação](Preparacao_Avaliacao_Sem_Chats.md) fixa corpus, critérios e tratamento dos limites; o [formulário vazio](Formulario_Resultado_Sem_Chats.md) registra o resultado futuro. A referência congelada contém 113 arquivos. Esta preparação não executa nem aprova D5.
