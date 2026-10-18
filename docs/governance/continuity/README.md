@@ -43,3 +43,7 @@ Não repetir recuperação sem peça exata faltante, evidência examinada, fonte
 ## Preparação da avaliação sem chats — 18/10/2026
 
 A [instrução de avaliação](Preparacao_Avaliacao_Sem_Chats.md) fixa corpus, critérios e tratamento dos limites; o [formulário vazio](Formulario_Resultado_Sem_Chats.md) registra o resultado futuro. A referência congelada contém 113 arquivos. Esta preparação não executa nem aprova D5.
+
+## Avaliação executada — 18/10/2026
+
+O [resultado pelo próprio executor](Resultado_Avaliacao_Executor.md) demonstra reconstrução do estado publicado para continuidade documental delimitada. A [verificação](Resultado_Avaliacao_Executor_Verificacao.json) compara 115 arquivos à árvore remota. Não foi teste independente sem contexto; não encerra D5 nem o espelho integral. O formulário anterior permanece como modelo vazio, não como alegação de que nenhuma avaliação pelo executor ocorreu.
