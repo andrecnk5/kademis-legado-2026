@@ -1,0 +1,6 @@
+# KADEMIS — D2-SUF-01/A2 — Manifesto SHA-256 dos arquivos produzidos
+# Escopo: apenas relatório Markdown e matriz CSV desta execução excepcional.
+# Data do manifesto: 2026-10-15. Não se atribuem hashes a mensagens originais ou documentos externos.
+
+c66da348dfd2ed221b8fe7919629bc2704d54989295e53ca649a5e9c9c40de31  KADEMIS_D2-SUF-01_A2_Relatorio_Execucao_Excepcional_Fase_3_10_1_20261015.md
+46268a030ab1013f3ea77db1d0b101938ac48543afc3893d441a425a3b75ff33  KADEMIS_D2-SUF-01_A2_Matriz_Recuperacao_L4_L5_L6_20261015.csv

@@ -45,6 +45,8 @@ Neste momento:
 
 - [Evidências documentais — Lote 07](docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md) — matrizes, deltas, proveniência e auditoria histórica D2-REC-03, com controles posteriores.
 
+- [Evidências documentais — Lote 08](docs/governance/evidence/lote-08-historico-e-suf/README.md) — propostas históricas e fontes A/A2/B, com precedência das decisões posteriores.
+
 ## Princípios de trabalho
 
 O projeto evolui por fases, checklists e gates de aprovação. Decisões relevantes devem ser rastreáveis e validadas antes de se tornarem baseline.
