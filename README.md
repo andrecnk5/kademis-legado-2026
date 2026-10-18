@@ -41,6 +41,8 @@ Neste momento:
 
 - [Evidências documentais — Lote 05](docs/governance/evidence/lote-05-eventos/README.md) — matriz, relatório e handoff históricos de eventos I03-R02, com alcance e ressalvas preservados.
 
+- [Evidências documentais — Lote 06](docs/governance/evidence/lote-06-regras-rdoc/README.md) — relatórios históricos complementares RDOC-01/01A/01B, com sequência de reconciliação preservada.
+
 ## Princípios de trabalho
 
 O projeto evolui por fases, checklists e gates de aprovação. Decisões relevantes devem ser rastreáveis e validadas antes de se tornarem baseline.
