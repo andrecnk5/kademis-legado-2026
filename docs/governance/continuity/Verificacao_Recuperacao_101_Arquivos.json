@@ -1,0 +1,1626 @@
+{
+  "head": "40bc0afadc2347424f5451dffa988eefdead7e9f",
+  "files": 101,
+  "all_blobs_match": true,
+  "readme_links": 168,
+  "broken_readme_links": [],
+  "limitations": "Teste técnico de bytes e navegação a partir de leitura remota; não avalia completude material nem substitui auditor independente sem chats.",
+  "checks": [
+    {
+      "path": "README.md",
+      "sha256": "82ee79ac13ca169069822aa6244ea0c766d88d7be777c5fe607266871d4b3c18",
+      "git_blob": "d6a75a058f91afc3e86a6533f43e97d2ad3c299d",
+      "bytes": 4472
+    },
+    {
+      "path": "docs/brand/Kademis_Diretriz_Identidade_Visual_v0.1.md",
+      "sha256": "dada4aabba30c1ca853871f8356bd568b2065155a8b4ba5abd9a3bbf7fc33463",
+      "git_blob": "db9f26d7b6d24a04ff5168a2376f0993275f12c4",
+      "bytes": 13990
+    },
+    {
+      "path": "docs/domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md",
+      "sha256": "8bc45f42bcc996f1ac7e3f75829f4d735e5239e6b2af85a08353aaad71b812de",
+      "git_blob": "fd494e34230444682cb59866c4d3f77e63e38dd5",
+      "bytes": 15455
+    },
+    {
+      "path": "docs/domain/candidates/Kademis_D2_Controle_Chaves_CANDIDATO_v0.1.csv",
+      "sha256": "d636ee007d3b39891cc4cd173f3211282db951a3824b7f36a32b65d3a3f618c4",
+      "git_blob": "6dd7eb646e95e0d9885a1d6ec1e80a7543a7f99d",
+      "bytes": 38129
+    },
+    {
+      "path": "docs/domain/candidates/Kademis_D2_Indice_Candidato_v0.1.md",
+      "sha256": "b1689721bb27e786b6fc9dc42600c50b75617e43154bc2bf0ad2c5fd0eb915a6",
+      "git_blob": "154ede2788bae317c42956c4f6d997eb185f7552",
+      "bytes": 4032
+    },
+    {
+      "path": "docs/domain/candidates/Kademis_D2_Proveniencia_e_Ressalvas_v0.1.md",
+      "sha256": "781b92f69119bad37986f2bc3ca0f85d5cce8394c47333948fc8ccde4b2e73bf",
+      "git_blob": "e1b744621bdbb69fb1a7b7d8ce5babdc754df54c",
+      "bytes": 4168
+    },
+    {
+      "path": "docs/domain/candidates/Kademis_I03-R05_Matriz_Candidata_488x15_v0.1.csv",
+      "sha256": "223c9ac144c16b4edf99a3fffc20ec1b77e4c4732ed6e3f922c597405466843e",
+      "git_blob": "003f383cd13d5a445fe9e5c24fe253ce9f9e2f2d",
+      "bytes": 421485
+    },
+    {
+      "path": "docs/governance/Kademis_Governanca_v0.1.md",
+      "sha256": "51f86dbb75f897719e4b83c128524353b78a755bdfc43f829636d0d24fa1309f",
+      "git_blob": "de80e3b7408b9e4ed7ef259124aff12d32ce5142",
+      "bytes": 22007
+    },
+    {
+      "path": "docs/governance/Kademis_Governanca_v1.0.md",
+      "sha256": "07de5538602484957883d9cfdcdd5a98a731bfd603ae4e0d1d8a74c269319b68",
+      "git_blob": "05fe245eb975d5aaa4529f84cb29cf1ef9fcb737",
+      "bytes": 21973
+    },
+    {
+      "path": "docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "sha256": "e8d751b432f7969983405a6887d7004e6ac5570b473ccf1e7540f04eee6516a0",
+      "git_blob": "9426de54e8dcc8a2bfae761fabf317a4941ee14f",
+      "bytes": 15395
+    },
+    {
+      "path": "docs/governance/Kademis_Inventario_Recuperacao_Documental_Pre_Fase_4_v0.1.md",
+      "sha256": "0fa4addd38a1875309320b66d4de90b5f07c32d0018c1b9ff1b2a5168be6c5ed",
+      "git_blob": "7fd87b56722c36141c13662f7348e335b783727f",
+      "bytes": 11865
+    },
+    {
+      "path": "docs/governance/Kademis_Politica_Continuidade_Documental_v0.1.md",
+      "sha256": "607fc34a1aab1371449278d2ace0d26ed8b771775491f044a64632371a395be9",
+      "git_blob": "e4f5f5d05c18e67170e2cc549fbcf0740b5d4707",
+      "bytes": 11320
+    },
+    {
+      "path": "docs/governance/Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "sha256": "48c5e3d9af254e1158fc305e862371705532c0b7eeeb77dcf576fd5e18719b64",
+      "git_blob": "b7480e4cc5a9d8874f8f648c3109fb2b1141936f",
+      "bytes": 8010
+    },
+    {
+      "path": "docs/governance/d2-suf-01/01_Despacho_Recebimento_AUD_D2_SUF_A_02.md",
+      "sha256": "df69adb0d532e6f05b0914d583f27041fd06f9e6bd525db6e21dd84439c73ce0",
+      "git_blob": "3b46e5f0e460d3eb446c576c5f150bc0ad641bee",
+      "bytes": 4193
+    },
+    {
+      "path": "docs/governance/d2-suf-01/02_Consolidacao_Transversal_D2_SUF_01_A_B_C.md",
+      "sha256": "2000e0b26fbcee142dcad62a209b5897161cb03bd00941f119aa8be32f2ee9f2",
+      "git_blob": "a187c792b3cf250272b4096382f82b3ac7345df0",
+      "bytes": 4390
+    },
+    {
+      "path": "docs/governance/d2-suf-01/03_Dependencias_e_Criterios_de_Parada.md",
+      "sha256": "0276b21b30db2e9e7ae9dd6080e4ccd56049379a04b6db27a595878ca5eeb1dc",
+      "git_blob": "84bb28b2b6b88bc4907d9587c724ae2b820ec44e",
+      "bytes": 3234
+    },
+    {
+      "path": "docs/governance/d2-suf-01/04_Handoff_Governanca_Proximo_Incremento.md",
+      "sha256": "171e88a30b67099b1e3b09323a0d2c4f299a137deaeeaea63580f418fa223189",
+      "git_blob": "1c8fb6c5c936ab593c3022ddd0e01b2beba4bd97",
+      "bytes": 3470
+    },
+    {
+      "path": "docs/governance/d2-suf-01/README.md",
+      "sha256": "c72f4333a5551076114426422ecae51cdb0f9f6e8fd065c86d062758d1ced0de",
+      "git_blob": "2a39131d78f66f29179195e2678435f5fe217097",
+      "bytes": 5515
+    },
+    {
+      "path": "docs/governance/evidence/lote-01/KADEMIS_BF-R02_Adendo_Handoff_Pos_Gate_3_20261010.md",
+      "sha256": "12a96a9ba7b813427fe0e93a939f9dfb3dcf7296b06822df549f3aceb7e62da2",
+      "git_blob": "d186cc213a13ed02075fb428f834d27a88f629f5",
+      "bytes": 5380
+    },
+    {
+      "path": "docs/governance/evidence/lote-01/KADEMIS_BF-R02_Catalogo_Oportunidades_Funcionais_20261010.md",
+      "sha256": "60d6b118443e7e3e2eb9ef6c57d000953578785b7110a90878951ef59920b3f1",
+      "git_blob": "ba79ea869974bb12858f7c15b8e2cac4ff22f01c",
+      "bytes": 17683
+    },
+    {
+      "path": "docs/product/Kademis_Stakeholders_v0.1.md",
+      "sha256": "d038b7dbdc08a551e43c781846a592e375f12c2d9a71481a2628a9e2f1e161f0",
+      "git_blob": "b1eb2edd8fd1bea11e84e45d20c4bb9554c23393",
+      "bytes": 38858
+    },
+    {
+      "path": "docs/governance/evidence/lote-01/KADEMIS_BF-R02_DEC01_Registro_Aceite_Encerramento_Administrativo_20261010.md",
+      "sha256": "9ce40f396b9b62b6d485964d113c2c56c2052b64763f020e3e981524a17b9d74",
+      "git_blob": "035f2b8c44eeab8d3fee4d12432a81805d6e1f6e",
+      "bytes": 8099
+    },
+    {
+      "path": "docs/governance/evidence/lote-01/KADEMIS_BF-R02_HOF01_Complemento_Handoff_Aceite_20261010.md",
+      "sha256": "839e9410de13d0525101fdcf381de7065ebdc4b43f833c3550b95157aefbc88a",
+      "git_blob": "cdbb35bd7a6dcd76a04851f4713d10d82dc617e3",
+      "bytes": 5048
+    },
+    {
+      "path": "docs/governance/evidence/lote-01/KADEMIS_BF-R02_Matriz_Destinacao_Ressalvas_20261010.md",
+      "sha256": "c83b012f64dfb243e3dbcc5fb64c01034630556343b453fe8f6a242a4b10b9b0",
+      "git_blob": "7c60e24c4f4ebfb8bcd035e417a21392799583d3",
+      "bytes": 8266
+    },
+    {
+      "path": "docs/governance/evidence/lote-01/KADEMIS_CCD-03_Registro_Deliberacao_F01_F02_20261009.md",
+      "sha256": "7e140f786bc1fb759a0e8f91119c21e3ebd14c9aaa0199a06ebcc6cc221cce36",
+      "git_blob": "aceb919d679c2ac4c5f1f6e5b81f08753b66af4b",
+      "bytes": 5224
+    },
+    {
+      "path": "docs/governance/evidence/lote-01/KADEMIS_G3-AV01_Parecer_Tecnico_Avaliacao_Gate_3_20261010.md",
+      "sha256": "8f0bff39062e98ec10642df39349080f37d2d3141012fbfed20b735aea8937d0",
+      "git_blob": "71c0713eb4473661096c30f5aa4412387bf6b042",
+      "bytes": 17953
+    },
+    {
+      "path": "docs/governance/evidence/lote-01/KADEMIS_G3-DEC01_Registro_Deliberacao_Gate_3_20261010.md",
+      "sha256": "46b4a6cc1ea6a3d1ea7dd6d852383fcde35c8ec1c971236e108367fa0c03e952",
+      "git_blob": "e9176f31755c098508b9f83e0871eb65b44fe5e4",
+      "bytes": 9976
+    },
+    {
+      "path": "docs/governance/evidence/lote-01/KADEMIS_G3-HOF01_Handoff_Pos_Gate_3_20261010.md",
+      "sha256": "903da703c3c5c07b2f1fde00743cab8e9986009205e93347057756742bb607a9",
+      "git_blob": "3fac6c5e67d0f29bb512a65a53a7841293c8fc37",
+      "bytes": 6428
+    },
+    {
+      "path": "docs/governance/evidence/lote-01/KADEMIS_PSD-I03_Termo_Aceite_Documental_I03-R05_20261010.md",
+      "sha256": "d4271cd0464cbb8e8bd05e1061bdd8c98bd20cf6d89e460d60aeca973a20ef54",
+      "git_blob": "bdb2650f620e441db01708e6630e0580b25a28a3",
+      "bytes": 4807
+    },
+    {
+      "path": "docs/governance/evidence/lote-01/README.md",
+      "sha256": "7687f4931664102701cddccc6d996f85894555554112d7fcad1a596d2793d124",
+      "git_blob": "c68ab7281b60c734121ad5dec889ebea50bc20b8",
+      "bytes": 6440
+    },
+    {
+      "path": "docs/governance/evidence/lote-02-invariantes/01_Registro_Decisao_e_Compromisso.md",
+      "sha256": "e81c4177849cc59b4c448805da08bbeb6e316b76fc05bb75a506e9c98a70705a",
+      "git_blob": "1af5d1fa492204d0e95200c5b4ec460e536a95ca",
+      "bytes": 3987
+    },
+    {
+      "path": "docs/governance/evidence/lote-02-invariantes/01_Relatorio_Cotejo_Invariantes.md",
+      "sha256": "da076fd49bb605f3ecbeaccec9ec081a233b15276c03db5a39d2837b91939af3",
+      "git_blob": "62238b05b225ebf390333694e395003b33484693",
+      "bytes": 8309
+    },
+    {
+      "path": "docs/governance/evidence/lote-02-invariantes/02_Matriz_Focal_47.csv",
+      "sha256": "7b2a89fe24f40cd49e4007f490c8b6683b7f12bc8e43b32ab7427ec16efca834",
+      "git_blob": "34c451a630ba666e0ec43a104a88df323c879216",
+      "bytes": 59331
+    },
+    {
+      "path": "docs/governance/evidence/lote-02-invariantes/02_Registro_Estavel_Limitacoes_Conhecidas.csv",
+      "sha256": "c02ab5721afd543f002afdea5c196f51ed38a9801b5a8628770d66d62287c0ab",
+      "git_blob": "d4067d55cab7b0899c0ce8a678e9b5fffc348682",
+      "bytes": 63741
+    },
+    {
+      "path": "docs/governance/evidence/lote-02-invariantes/KADEMIS_I03-R01_Recuperacao_Primaria_INV-01-110.md",
+      "sha256": "e9dddfb69ec3c7293ed3263a35eb56af4ed4114daf2e2f24da974b20be7065a6",
+      "git_blob": "288133f451bb915d78fde5e93e96e2b8cbc45d0c",
+      "bytes": 63881
+    },
+    {
+      "path": "docs/governance/evidence/lote-02-invariantes/KADEMIS_PSD-I03_Reconciliacao_I03-R01_20261009.md",
+      "sha256": "72b5977b27130d44492b2b5b27aa21468f02cfdaa63a7e671ee2ea62726622f5",
+      "git_blob": "14fa9e1848308f7788689ca950ecae63bae08569",
+      "bytes": 5335
+    },
+    {
+      "path": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "sha256": "aaf9e7483bae26bc0bda8ddbb360953f765e8371ef131ed1d90b74ea957cb61b",
+      "git_blob": "c60b2689f41710aeeb9d7cee555f9225031fa333",
+      "bytes": 6150
+    },
+    {
+      "path": "docs/governance/evidence/lote-03-fontes-dominio/KADEMIS_I03-R03_Matriz_Primaria_Estados_Fase_3_7_20261010.md",
+      "sha256": "dcbd57a81d1f33fa18d6ab2766f8395d4dc272a33a4b7a8a5e1634993a77736b",
+      "git_blob": "45056ef1b44f3532c381b804337144fba5135f9a",
+      "bytes": 27171
+    },
+    {
+      "path": "docs/governance/evidence/lote-03-fontes-dominio/KADEMIS_I03-R03_Matriz_Transicoes_Documentadas_Fase_3_7_20261010.md",
+      "sha256": "c4b960b26fb7630a8f9c3295a7478a7b5a71de242d70d1743b5cd1c92dc30af9",
+      "git_blob": "1a4dcd97a5f4678a2bbb4373b94938c7b6d67478",
+      "bytes": 7977
+    },
+    {
+      "path": "docs/governance/evidence/lote-03-fontes-dominio/KADEMIS_I03-R03_Relatorio_Primario_Estados_Dominio_Fase_3_7_20261010.md",
+      "sha256": "4f05411ef4817f9c74dc8019aed1a3b4c9c4b3bbf4a0392b098340a6cadd35d3",
+      "git_blob": "74e13a8f425f7669aa6dc350ee57596088467bb4",
+      "bytes": 16431
+    },
+    {
+      "path": "docs/governance/evidence/lote-03-fontes-dominio/KADEMIS_I03-R04-C_Matriz_Primaria_Objetos_Dominio_Fase_3_3_20261010.md",
+      "sha256": "3b8814f3c191601ddaec4b6909faf5e4cfb2b1114c95d6eaa6dc59111a240042",
+      "git_blob": "7849b279b681445db42dfeb8cb8415b717912b6c",
+      "bytes": 7254
+    },
+    {
+      "path": "docs/governance/evidence/lote-03-fontes-dominio/Matriz_Primaria_I03-R04_Glossario.md",
+      "sha256": "9c69e0df3ec8f286efe867dca1f257657bd91bb609b3c5cd1763c6885e94da1a",
+      "git_blob": "cc041073f9b38728fbd1ad4638e8728091bc82e3",
+      "bytes": 66297
+    },
+    {
+      "path": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "sha256": "3c98f9eb1ef8da01be7669edec48b030038449e7c1662612dc3509f9fcbd27e8",
+      "git_blob": "43e73a1b712322047273c5059966b7ac522b0b46",
+      "bytes": 6520
+    },
+    {
+      "path": "docs/governance/evidence/lote-04-historico-temporal/KADEMIS_Relatorio_Completo_Continuidade_Fase_3_20261009.md",
+      "sha256": "35050031931f76913bdd61c9a307f2e4dec5c2812c70a66b05257c30506d62d1",
+      "git_blob": "38fcd2d18947675ed1abc8219356d5335ef83a35",
+      "bytes": 31875
+    },
+    {
+      "path": "docs/governance/evidence/lote-04-historico-temporal/README.md",
+      "sha256": "682357a1cfeb1aca8134eb0b6269519f463ddc9d79986fb826af8260718f1b58",
+      "git_blob": "5331f2f05d93495f07bbb6a291eb90bfe5593b0e",
+      "bytes": 3456
+    },
+    {
+      "path": "docs/governance/evidence/lote-04-historico-temporal/library_Kademis_Fase_3_9_Auditoria_Documental_Historico.md",
+      "sha256": "4b79b682f2936e61811b4a0b3221d06fd228276d61e6b2098ea1ec8211f0a958",
+      "git_blob": "81ecf3ea8f29a45c50b63f354c71fd353590dee8",
+      "bytes": 31454
+    },
+    {
+      "path": "docs/governance/evidence/lote-05-eventos/KADEMIS_I03-R02_Handoff_Pre-Gate3_20261010.md",
+      "sha256": "24c604ad82da9474501a1e9917c3677695a374ad6d52732c1886ed88e1e66093",
+      "git_blob": "472decd41ddb8d88e4a6931a4d97222f18f36bca",
+      "bytes": 1642
+    },
+    {
+      "path": "docs/governance/evidence/lote-05-eventos/KADEMIS_I03-R02_Matriz_Primaria_Eventos_Fase_3_6_20261010.md",
+      "sha256": "d223f4942de4e9d45d4c28bffba6ad6c67b07afeb834680b2c6e43efcb229043",
+      "git_blob": "a43971db3385f654b67cf66f65258a6b8f95f352",
+      "bytes": 9412
+    },
+    {
+      "path": "docs/governance/evidence/lote-05-eventos/KADEMIS_I03-R02_Relatorio_Primario_Eventos_Dominio_Fase_3_6_20261010.md",
+      "sha256": "a7c70fda3e63a2acde65418624240756ac7c276dc07d1f1e8c6ff465260bdbb7",
+      "git_blob": "e07ffcca0754da5ca0f526aaddb2f311103ca6fd",
+      "bytes": 11414
+    },
+    {
+      "path": "docs/governance/evidence/lote-05-eventos/README.md",
+      "sha256": "dbf9a0df888f417d72f0ec28de0522c34c2add68d8d49dcfd6dd29860622ab77",
+      "git_blob": "395c3a248652239db26fc75443b7c6f5942f895c",
+      "bytes": 3566
+    },
+    {
+      "path": "docs/governance/evidence/lote-06-regras-rdoc/KADEMIS_RDOC-01A_Recuperacao_Focal_Regras_Historicas_Fase_3_2.md",
+      "sha256": "5ba2c1fa25d95fa68067013eb8a43a59a8ed529bf898b856bb8ab1944df2422a",
+      "git_blob": "c05b7a2522a1b5a54efe0384dc6bcca295bde9d8",
+      "bytes": 41152
+    },
+    {
+      "path": "docs/governance/evidence/lote-06-regras-rdoc/KADEMIS_RDOC-01B_Recuperacao_Focal_Pendencias_Fase_3_1.md",
+      "sha256": "c0c34b90b42af5f5e5d01dbdbb582f2f997124df15c3e13d3119ed46c1ed8126",
+      "git_blob": "cea97fd2140a268e17bb2217929e62bd65937003",
+      "bytes": 26021
+    },
+    {
+      "path": "docs/governance/evidence/lote-06-regras-rdoc/KADEMIS_RDOC-01_Recuperacao_Primaria_Fase_3_4.md",
+      "sha256": "7293be1f1e7c4eb85fdee1369966573ec36a7377c7a0f4cf329468c8f3f2c2bd",
+      "git_blob": "ec51c90aeb8c1a71ae9fa241aee5fc1ba0809bf4",
+      "bytes": 36445
+    },
+    {
+      "path": "docs/governance/evidence/lote-06-regras-rdoc/README.md",
+      "sha256": "4800f0ce114ecce73b49c5b5408f1836d543b2af0ed99b375c687dcbf70148f6",
+      "git_blob": "b4f4ec230eaa013b91818c4dae5269198423e14f",
+      "bytes": 3531
+    },
+    {
+      "path": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Catálogo_Pendencias_de_Fonte.csv",
+      "sha256": "dd6980ea861981bcadc1479a0d85b7124145d53cc27f17383eab852c2fa57425",
+      "git_blob": "147ba766646428bcec04f07dbaa93a0d606601c1",
+      "bytes": 6767
+    },
+    {
+      "path": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Cobertura_Dominio.md",
+      "sha256": "15a4290b66fd43e7357ef89c88eae37f7da92e69bce751154e5be008e97f35f5",
+      "git_blob": "e3f5fec93d68a7263136642ddb673ab3a062dfce",
+      "bytes": 3768
+    },
+    {
+      "path": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Cronologia_3_9.csv",
+      "sha256": "460bc9e1927aab391e9e9faa8d0bf5dda51d49155bfef360f2a9c75daa43c885",
+      "git_blob": "548a0ddba1167d346e2e75add14b1e474e0d5c14",
+      "bytes": 4783
+    },
+    {
+      "path": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Delta_Auditavel.csv",
+      "sha256": "11a1aca432c632c6f777b1110ec76b2c08bd7b45245b0dc7393fbe78ceebec2e",
+      "git_blob": "ea0a9e40b15a76c7c15c95a25793e288ffbe4a42",
+      "bytes": 24896
+    },
+    {
+      "path": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Handoff_Auditoria.md",
+      "sha256": "f2376fae68da11a7c18aef80a3bad3e5fbece874f0b6cb2aeab54c65b86822d0",
+      "git_blob": "2424316138f2811e34ca45c55b16268047b441ef",
+      "bytes": 2782
+    },
+    {
+      "path": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Mapa_Eventos_68.csv",
+      "sha256": "0d5fd22d8af19dae2de033a28d9f05803338cde90e6fc88038741869cd06df8a",
+      "git_blob": "d1ed7fc5746e2628ebc6680047f4e39c11ad1e9f",
+      "bytes": 45174
+    },
+    {
+      "path": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Matriz_Evidencias_Revisada.csv",
+      "sha256": "3d25b8d6bb89cef52fa305ab0a8b38de2396e680697f2714a65d1996c5c8bee7",
+      "git_blob": "a8a64323420cb614412e9904f3517782b572fce2",
+      "bytes": 372981
+    },
+    {
+      "path": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Matriz_Proveniencia.csv",
+      "sha256": "b796b01a05b49845cf1074b99a51b780a4629bb9514a07e9b495883af951c766",
+      "git_blob": "a33594a78238156e82acd93d0f09c83902fbc9c4",
+      "bytes": 559693
+    },
+    {
+      "path": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Registro_Fontes_SHA256.md",
+      "sha256": "6851dc71773bbd33d2d416b29091735e052f1124adec898577fe3adf7e698870",
+      "git_blob": "becbcd24b51514f983e3df274c1e0cc8f951d3f6",
+      "bytes": 25682
+    },
+    {
+      "path": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Relatorio_Saneamento.md",
+      "sha256": "022bc9600dace0e2a033433b29d548eda768a44e261ba7b3ca7cea32e545f849",
+      "git_blob": "f03f8223da886f1928dc29e2a9555af879ce557d",
+      "bytes": 5738
+    },
+    {
+      "path": "docs/governance/evidence/lote-07-trilha-d2-rec-03/KADEMIS_D2-REC-03_AUD-D2-03_Parecer_Independente_20261012.md",
+      "sha256": "c04a516e0e251c9512e694a73bc6b909bec44eb14b3b2ab3f416b5f183710d37",
+      "git_blob": "641dbc412e1e7a92d5fe71797befcbd8b03b930f",
+      "bytes": 11048
+    },
+    {
+      "path": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "sha256": "3d077c0b746572127f243f2ab0434a5aef7d328bb26a3a3c59fd102d53af0708",
+      "git_blob": "b030559650359bc7edac16fc7a8190b93479e8ad",
+      "bytes": 6271
+    },
+    {
+      "path": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A2_Manifesto_SHA256_20261015.txt",
+      "sha256": "d571780c0773ce158576ebd6d8b9f0429c6072e0f73922671b58e918fb70e3ff",
+      "git_blob": "3dc336660d92354a5833bb6b87133849b184c4d2",
+      "bytes": 527
+    },
+    {
+      "path": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A2_Matriz_Recuperacao_L4_L5_L6_20261015.csv",
+      "sha256": "46268a030ab1013f3ea77db1d0b101938ac48543afc3893d441a425a3b75ff33",
+      "git_blob": "6ce87bff1353c1540cc514eea89ee4389942f1b7",
+      "bytes": 33761
+    },
+    {
+      "path": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A2_Relatorio_Execucao_Excepcional_Fase_3_10_1_20261015.md",
+      "sha256": "c66da348dfd2ed221b8fe7919629bc2704d54989295e53ca649a5e9c9c40de31",
+      "git_blob": "fea00df1fbefb7ff97df2edf1a2b7af74a2a6bda",
+      "bytes": 13047
+    },
+    {
+      "path": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A_Atos_Humanos_L3-L6_20261014.csv",
+      "sha256": "b1d6256f1fe459af7f953e8139ac2ef29d7dc6d933852795f3d16abb7ad142ec",
+      "git_blob": "a07aaaff28af8c30f345f54ef5c6e2ab21238277",
+      "bytes": 3343
+    },
+    {
+      "path": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A_Manifesto_SHA256_20261014.txt",
+      "sha256": "ff3bf68f0494081572e0177269e4498b9f1dbc041d0b49b0d85513a15a9cdb70",
+      "git_blob": "8a317c1c368d44b083f141b70d5f274d348598be",
+      "bytes": 601
+    },
+    {
+      "path": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A_Matriz_35_Itens_L3-L6_20261014.csv",
+      "sha256": "d053a041da6d275e3bbe55eecbadcba0946cb527d6b49dce6c58703fd2a7c872",
+      "git_blob": "90b70333553adcd0a390ea3cb875a7d2185799fc",
+      "bytes": 16509
+    },
+    {
+      "path": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A_Relatorio_Recuperacao_Focal_L3-L6_20261014.md",
+      "sha256": "a6130eac02ef0bce9b6218b9572d216b55ac003f214e54ad07b51466bd58c73c",
+      "git_blob": "d0fac0da7116964930efc37869d90cefc52b7425",
+      "bytes": 15801
+    },
+    {
+      "path": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2_SUF_B_Relatorio_Inspecao_Primaria_Fase_3_8_EVT_EXEC_10_20261015.md",
+      "sha256": "cd1319fcf6c985140d5423bd141891be68cbb2db73b3b8127472593f9f1c414b",
+      "git_blob": "36031aab3d30e3298537cd10618f7f420565e0a8",
+      "bytes": 14580
+    },
+    {
+      "path": "docs/governance/evidence/lote-08-historico-e-suf/Kademis_Master_Development_Playbook_v0.1.md",
+      "sha256": "e0e6913b362034c2feacd855aff555118684cd81eff345b184382b3767a827f8",
+      "git_blob": "1885a7532b27dc409e8c879b9f25c5760f611e2d",
+      "bytes": 41298
+    },
+    {
+      "path": "docs/governance/evidence/lote-08-historico-e-suf/Kademis_Stakeholders_v0.1_PROPOSTA.md",
+      "sha256": "c4510ce0e263a8234a0043ebbf6007bbe32864db279421f273e9585ae4383be1",
+      "git_blob": "14f73e1acab22f8e703a8aa979bc56231a9782f7",
+      "bytes": 38657
+    },
+    {
+      "path": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "sha256": "c1f8fbcc95513a12464a3121677faaec036e476f51db09ca5894cbd14d324eaa",
+      "git_blob": "d8980298d6fcc9aa5e9e2edcd4a7761014e21aaf",
+      "bytes": 5368
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Delta_Campo_a_Campo.csv",
+      "sha256": "649ab9857a6b3ceb81ac2be9173260338f52dd64085b3d07bd0aa328342eecef",
+      "git_blob": "d6feffd66d26eda876d1a1226eedd6dfd25702e5",
+      "bytes": 204792
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Equivalencias_Grafias_RD.csv",
+      "sha256": "8757dfc5a1e3ef58d94461397adb5acc631891d52ba7056c7339f2a7d0a7ec7b",
+      "git_blob": "1c4c03184e9c7c83faa638668cb31bb9fd65f5b3",
+      "bytes": 12444
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Handoff_Auditoria.md",
+      "sha256": "79a2001a048110c701ff14a9952d017a15384abcc95f7c9b4792934542b996a9",
+      "git_blob": "925fb9ff648df7d1ae0f8b60458cd41ca5f7ed49",
+      "bytes": 3570
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Inventario_177_Reconciliado.csv",
+      "sha256": "c73a7fc83dabea0da1a4c9b6b1458b5d70025f6ead175ab55047f18e99b983ea",
+      "git_blob": "7ff9a4aa0bb0daf839533660e4410832290978ca",
+      "bytes": 236579
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Lacunas_Dependencias_Acoes_Humanas.csv",
+      "sha256": "46bf6a2226bb64467d63dffd0d55e644e39d25c3ca926d165265761bb9117dbe",
+      "git_blob": "63c8e3c1d9f77167021f1803c2ca6a9e992a3018",
+      "bytes": 5354
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Manifesto_I03-R05.md",
+      "sha256": "febd0df1139150f2018fdb25f038b6234c38adf1afbd87f642124fedbdd8c0c6",
+      "git_blob": "e8a77b4c1a98458fb76b643dab48001954985e39",
+      "bytes": 2280
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Mapa_Cobertura.md",
+      "sha256": "ec78dff020df4d390d76c0744f56ff7e3b33ecc7764a0ddb47c9b756e09c6f6d",
+      "git_blob": "90128657f3f8d6e63c0e026ba4ba3920e94d933a",
+      "bytes": 2058
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Parecer_Conflito_Eventos.md",
+      "sha256": "7b27f5b75496a1a29c8ede001b77f881705972ed333e7d8b2e482454e1382dab",
+      "git_blob": "66a128449f7be4906cb3d53f4a898a146220130e",
+      "bytes": 2219
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Proveniencia_Atos_Fase_3_9.csv",
+      "sha256": "5e11bea7fba7571c778b9430c626a6b8717d88e5435afb8e3f529ce72d4b2082",
+      "git_blob": "04b82562be0d4667fdc82e2056d720720d5ada9e",
+      "bytes": 4224
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Registro_Fontes_Hashes.md",
+      "sha256": "905b5b2766c104dd448c1c351da1b6325f1a7c4000aaf2b750a2d53bb9bfad11",
+      "git_blob": "c7316a181726142f9f3d418e2c954f7ae3b338b3",
+      "bytes": 13607
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Relatorio_Reconciliacao.md",
+      "sha256": "1d7022cb61cf981a1c13f077190440a0715699046eb916b6b387ad12317f084b",
+      "git_blob": "dc2edcea45ddc7fe56d5260408cebcc500f57441",
+      "bytes": 4600
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Cadeia_Custodia_I03-R05.md",
+      "sha256": "7fb77927b91d9d42c54aa2754953cbe90ecd92e38bcaf5c53ba2148082f8e02b",
+      "git_blob": "59f8c48acd589542a3d8a814eca8b659be6e0c5a",
+      "bytes": 3231
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Delta_Proposto_Nao_Aplicado.csv",
+      "sha256": "d8c3249153fdedcd329a4e2e9072dc72f20bc96ff554c4e802591b53379ca22b",
+      "git_blob": "d8c3b9f8f384a5d27f0506f862cf51553a719868",
+      "bytes": 147
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Eventos_Conflitos_3_7.csv",
+      "sha256": "5819fd55e985549d537b434ddf300430b66fddd8fa414bf8c0dd47464f15ecb1",
+      "git_blob": "4f51729257688c3bc9927f957b7a5d921cf001eb",
+      "bytes": 3490
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Handoff_Auditoria_Independente.md",
+      "sha256": "05082f3bfc51642556d11b7468493de97a2255678fcc5f1a22825a76f5b104fe",
+      "git_blob": "a1b23e09e7fa0e156248326c2db03c444b5888cc",
+      "bytes": 2347
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Ledger_Atos_Humanos.csv",
+      "sha256": "b6614a1789e090e21c30ba84b0d17d8df4f72572a0fe9c3f49775f148fac7d1f",
+      "git_blob": "b51e6054d4851619dd97ad992ca12844a86c19db",
+      "bytes": 6782
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Mapa_Pendencias_Dirigidas.md",
+      "sha256": "18f6d2db9020cc34d5dad8e45b5e378c91b8af4a839a8cbe9ecb5d49ba3f3c51",
+      "git_blob": "4d9c12e89c452b364f58de5aa4fb9debfcc39f00",
+      "bytes": 2279
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Registro_Fontes_Consultas_Hashes.csv",
+      "sha256": "16d694d724274e2df6d228c1aefdfe550e388ea1c263e364a606ab0010d39f3e",
+      "git_blob": "5771b08b08201262d15dc565bec9ece8ffbb9e01",
+      "bytes": 17503
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Relatorio_Recuperacao_Probatoria.md",
+      "sha256": "2421c35857e0124c3b01b3e12d6fb35bf5502f9836adcd5c4bb20403354ba074",
+      "git_blob": "8393f4bcb0ce2f02e73d94eb9f99a01034f561d6",
+      "bytes": 7597
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/KADEMIS_D2-REC-04_AUD-D2-04_Parecer_APROVADO.md",
+      "sha256": "7acc702cb403a4ef4576cbed66d5ac375941b04f2972331b40f6ec3010f86387",
+      "git_blob": "bc79c0054139de72ceb12d34e3ccb784586a167a",
+      "bytes": 14126
+    },
+    {
+      "path": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "sha256": "0d1ecb627ef0ad6176df7b0c97295474db610a99230f2d311428af26a064fd87",
+      "git_blob": "2fd383827d181dbd567f0f20cc8e22229b1342b1",
+      "bytes": 5952
+    },
+    {
+      "path": "docs/playbook/Kademis_Master_Development_Playbook_v0.1.md",
+      "sha256": "e0e6913b362034c2feacd855aff555118684cd81eff345b184382b3767a827f8",
+      "git_blob": "1885a7532b27dc409e8c879b9f25c5760f611e2d",
+      "bytes": 41298
+    },
+    {
+      "path": "docs/playbook/Kademis_Master_Development_Playbook_v1.0.md",
+      "sha256": "33c44a1f680e506edddf1fff11f37b288888dcf14edfd04b37b523d2aac5c665",
+      "git_blob": "a433d8a218190aba5cffc8a90b5502a49f11a92a",
+      "bytes": 41665
+    },
+    {
+      "path": "docs/product/Kademis_Product_Charter_v0.1.md",
+      "sha256": "9ed1250d1283558971f9a64b73789411011a00b7955c77c4ae26d9d95d780052",
+      "git_blob": "89f9b29d711041aaf3e52be913ac03015e05468b",
+      "bytes": 19773
+    }
+  ],
+  "links": [
+    {
+      "from": "README.md",
+      "target": "docs/playbook/Kademis_Master_Development_Playbook_v1.0.md",
+      "resolved": "docs/playbook/Kademis_Master_Development_Playbook_v1.0.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/governance/Kademis_Governanca_v1.0.md",
+      "resolved": "docs/governance/Kademis_Governanca_v1.0.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/product/Kademis_Product_Charter_v0.1.md",
+      "resolved": "docs/product/Kademis_Product_Charter_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/product/Kademis_Stakeholders_v0.1.md",
+      "resolved": "docs/product/Kademis_Stakeholders_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/governance/Kademis_Governanca_v0.1.md",
+      "resolved": "docs/governance/Kademis_Governanca_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/playbook/Kademis_Master_Development_Playbook_v0.1.md",
+      "resolved": "docs/playbook/Kademis_Master_Development_Playbook_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/brand/Kademis_Diretriz_Identidade_Visual_v0.1.md",
+      "resolved": "docs/brand/Kademis_Diretriz_Identidade_Visual_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/governance/d2-suf-01/README.md",
+      "resolved": "docs/governance/d2-suf-01/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/governance/evidence/lote-01/README.md",
+      "resolved": "docs/governance/evidence/lote-01/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "resolved": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/governance/evidence/lote-04-historico-temporal/README.md",
+      "resolved": "docs/governance/evidence/lote-04-historico-temporal/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/governance/evidence/lote-05-eventos/README.md",
+      "resolved": "docs/governance/evidence/lote-05-eventos/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/governance/evidence/lote-06-regras-rdoc/README.md",
+      "resolved": "docs/governance/evidence/lote-06-regras-rdoc/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "resolved": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "resolved": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "target": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/d2-suf-01/README.md",
+      "target": "../../playbook/Kademis_Master_Development_Playbook_v1.0.md",
+      "resolved": "docs/playbook/Kademis_Master_Development_Playbook_v1.0.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/d2-suf-01/README.md",
+      "target": "../Kademis_Governanca_v1.0.md",
+      "resolved": "docs/governance/Kademis_Governanca_v1.0.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/d2-suf-01/README.md",
+      "target": "../Kademis_Politica_Continuidade_Documental_v0.1.md",
+      "resolved": "docs/governance/Kademis_Politica_Continuidade_Documental_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/d2-suf-01/README.md",
+      "target": "01_Despacho_Recebimento_AUD_D2_SUF_A_02.md",
+      "resolved": "docs/governance/d2-suf-01/01_Despacho_Recebimento_AUD_D2_SUF_A_02.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/d2-suf-01/README.md",
+      "target": "02_Consolidacao_Transversal_D2_SUF_01_A_B_C.md",
+      "resolved": "docs/governance/d2-suf-01/02_Consolidacao_Transversal_D2_SUF_01_A_B_C.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/d2-suf-01/README.md",
+      "target": "03_Dependencias_e_Criterios_de_Parada.md",
+      "resolved": "docs/governance/d2-suf-01/03_Dependencias_e_Criterios_de_Parada.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/d2-suf-01/README.md",
+      "target": "04_Handoff_Governanca_Proximo_Incremento.md",
+      "resolved": "docs/governance/d2-suf-01/04_Handoff_Governanca_Proximo_Incremento.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/d2-suf-01/README.md",
+      "target": "../../domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md",
+      "resolved": "docs/domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/d2-suf-01/README.md",
+      "target": "../Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "resolved": "docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/d2-suf-01/README.md",
+      "target": "../Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "resolved": "docs/governance/Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/d2-suf-01/README.md",
+      "target": "../../domain/candidates/Kademis_I03-R05_Matriz_Candidata_488x15_v0.1.csv",
+      "resolved": "docs/domain/candidates/Kademis_I03-R05_Matriz_Candidata_488x15_v0.1.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "KADEMIS_BF-R02_Adendo_Handoff_Pos_Gate_3_20261010.md",
+      "resolved": "docs/governance/evidence/lote-01/KADEMIS_BF-R02_Adendo_Handoff_Pos_Gate_3_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "KADEMIS_BF-R02_Catalogo_Oportunidades_Funcionais_20261010.md",
+      "resolved": "docs/governance/evidence/lote-01/KADEMIS_BF-R02_Catalogo_Oportunidades_Funcionais_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "KADEMIS_BF-R02_DEC01_Registro_Aceite_Encerramento_Administrativo_20261010.md",
+      "resolved": "docs/governance/evidence/lote-01/KADEMIS_BF-R02_DEC01_Registro_Aceite_Encerramento_Administrativo_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "KADEMIS_BF-R02_HOF01_Complemento_Handoff_Aceite_20261010.md",
+      "resolved": "docs/governance/evidence/lote-01/KADEMIS_BF-R02_HOF01_Complemento_Handoff_Aceite_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "KADEMIS_BF-R02_Matriz_Destinacao_Ressalvas_20261010.md",
+      "resolved": "docs/governance/evidence/lote-01/KADEMIS_BF-R02_Matriz_Destinacao_Ressalvas_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "KADEMIS_CCD-03_Registro_Deliberacao_F01_F02_20261009.md",
+      "resolved": "docs/governance/evidence/lote-01/KADEMIS_CCD-03_Registro_Deliberacao_F01_F02_20261009.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "KADEMIS_G3-AV01_Parecer_Tecnico_Avaliacao_Gate_3_20261010.md",
+      "resolved": "docs/governance/evidence/lote-01/KADEMIS_G3-AV01_Parecer_Tecnico_Avaliacao_Gate_3_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "KADEMIS_G3-DEC01_Registro_Deliberacao_Gate_3_20261010.md",
+      "resolved": "docs/governance/evidence/lote-01/KADEMIS_G3-DEC01_Registro_Deliberacao_Gate_3_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "KADEMIS_G3-HOF01_Handoff_Pos_Gate_3_20261010.md",
+      "resolved": "docs/governance/evidence/lote-01/KADEMIS_G3-HOF01_Handoff_Pos_Gate_3_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "KADEMIS_PSD-I03_Termo_Aceite_Documental_I03-R05_20261010.md",
+      "resolved": "docs/governance/evidence/lote-01/KADEMIS_PSD-I03_Termo_Aceite_Documental_I03-R05_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "../../../../README.md",
+      "resolved": "README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "../../../playbook/Kademis_Master_Development_Playbook_v1.0.md",
+      "resolved": "docs/playbook/Kademis_Master_Development_Playbook_v1.0.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "../../Kademis_Governanca_v1.0.md",
+      "resolved": "docs/governance/Kademis_Governanca_v1.0.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "../../Kademis_Politica_Continuidade_Documental_v0.1.md",
+      "resolved": "docs/governance/Kademis_Politica_Continuidade_Documental_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "../../Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "resolved": "docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "../../Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "resolved": "docs/governance/Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "../../d2-suf-01/README.md",
+      "resolved": "docs/governance/d2-suf-01/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-01/README.md",
+      "target": "../../../domain/candidates/Kademis_I03-R05_Matriz_Candidata_488x15_v0.1.csv",
+      "resolved": "docs/domain/candidates/Kademis_I03-R05_Matriz_Candidata_488x15_v0.1.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "D2-REC-03_Catálogo_Pendencias_de_Fonte.csv",
+      "resolved": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Catálogo_Pendencias_de_Fonte.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "D2-REC-03_Cobertura_Dominio.md",
+      "resolved": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Cobertura_Dominio.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "D2-REC-03_Cronologia_3_9.csv",
+      "resolved": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Cronologia_3_9.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "D2-REC-03_Delta_Auditavel.csv",
+      "resolved": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Delta_Auditavel.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "D2-REC-03_Handoff_Auditoria.md",
+      "resolved": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Handoff_Auditoria.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "D2-REC-03_Mapa_Eventos_68.csv",
+      "resolved": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Mapa_Eventos_68.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "D2-REC-03_Matriz_Evidencias_Revisada.csv",
+      "resolved": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Matriz_Evidencias_Revisada.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "D2-REC-03_Matriz_Proveniencia.csv",
+      "resolved": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Matriz_Proveniencia.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "D2-REC-03_Registro_Fontes_SHA256.md",
+      "resolved": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Registro_Fontes_SHA256.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "D2-REC-03_Relatorio_Saneamento.md",
+      "resolved": "docs/governance/evidence/lote-07-trilha-d2-rec-03/D2-REC-03_Relatorio_Saneamento.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "KADEMIS_D2-REC-03_AUD-D2-03_Parecer_Independente_20261012.md",
+      "resolved": "docs/governance/evidence/lote-07-trilha-d2-rec-03/KADEMIS_D2-REC-03_AUD-D2-03_Parecer_Independente_20261012.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "../../Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "resolved": "docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "../../Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "resolved": "docs/governance/Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "../../d2-suf-01/README.md",
+      "resolved": "docs/governance/d2-suf-01/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "../../../domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md",
+      "resolved": "docs/domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "../lote-02-invariantes/README.md",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "target": "../../../../README.md",
+      "resolved": "README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-06-regras-rdoc/README.md",
+      "target": "KADEMIS_RDOC-01A_Recuperacao_Focal_Regras_Historicas_Fase_3_2.md",
+      "resolved": "docs/governance/evidence/lote-06-regras-rdoc/KADEMIS_RDOC-01A_Recuperacao_Focal_Regras_Historicas_Fase_3_2.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-06-regras-rdoc/README.md",
+      "target": "KADEMIS_RDOC-01B_Recuperacao_Focal_Pendencias_Fase_3_1.md",
+      "resolved": "docs/governance/evidence/lote-06-regras-rdoc/KADEMIS_RDOC-01B_Recuperacao_Focal_Pendencias_Fase_3_1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-06-regras-rdoc/README.md",
+      "target": "KADEMIS_RDOC-01_Recuperacao_Primaria_Fase_3_4.md",
+      "resolved": "docs/governance/evidence/lote-06-regras-rdoc/KADEMIS_RDOC-01_Recuperacao_Primaria_Fase_3_4.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-06-regras-rdoc/README.md",
+      "target": "../../Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "resolved": "docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-06-regras-rdoc/README.md",
+      "target": "../../Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "resolved": "docs/governance/Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-06-regras-rdoc/README.md",
+      "target": "../lote-02-invariantes/README.md",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-06-regras-rdoc/README.md",
+      "target": "../../../domain/candidates/Kademis_I03-R05_Matriz_Candidata_488x15_v0.1.csv",
+      "resolved": "docs/domain/candidates/Kademis_I03-R05_Matriz_Candidata_488x15_v0.1.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-06-regras-rdoc/README.md",
+      "target": "../../../../README.md",
+      "resolved": "README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-05-eventos/README.md",
+      "target": "KADEMIS_I03-R02_Handoff_Pre-Gate3_20261010.md",
+      "resolved": "docs/governance/evidence/lote-05-eventos/KADEMIS_I03-R02_Handoff_Pre-Gate3_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-05-eventos/README.md",
+      "target": "KADEMIS_I03-R02_Matriz_Primaria_Eventos_Fase_3_6_20261010.md",
+      "resolved": "docs/governance/evidence/lote-05-eventos/KADEMIS_I03-R02_Matriz_Primaria_Eventos_Fase_3_6_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-05-eventos/README.md",
+      "target": "KADEMIS_I03-R02_Relatorio_Primario_Eventos_Dominio_Fase_3_6_20261010.md",
+      "resolved": "docs/governance/evidence/lote-05-eventos/KADEMIS_I03-R02_Relatorio_Primario_Eventos_Dominio_Fase_3_6_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-05-eventos/README.md",
+      "target": "../../Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "resolved": "docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-05-eventos/README.md",
+      "target": "../../Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "resolved": "docs/governance/Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-05-eventos/README.md",
+      "target": "../../../domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md",
+      "resolved": "docs/domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-05-eventos/README.md",
+      "target": "../../d2-suf-01/README.md",
+      "resolved": "docs/governance/d2-suf-01/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-05-eventos/README.md",
+      "target": "../lote-02-invariantes/README.md",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-05-eventos/README.md",
+      "target": "../../../../README.md",
+      "resolved": "README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-04_Delta_Campo_a_Campo.csv",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Delta_Campo_a_Campo.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-04_Equivalencias_Grafias_RD.csv",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Equivalencias_Grafias_RD.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-04_Handoff_Auditoria.md",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Handoff_Auditoria.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-04_Inventario_177_Reconciliado.csv",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Inventario_177_Reconciliado.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-04_Lacunas_Dependencias_Acoes_Humanas.csv",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Lacunas_Dependencias_Acoes_Humanas.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-04_Manifesto_I03-R05.md",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Manifesto_I03-R05.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-04_Mapa_Cobertura.md",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Mapa_Cobertura.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-04_Parecer_Conflito_Eventos.md",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Parecer_Conflito_Eventos.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-04_Proveniencia_Atos_Fase_3_9.csv",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Proveniencia_Atos_Fase_3_9.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-04_Registro_Fontes_Hashes.md",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Registro_Fontes_Hashes.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-04_Relatorio_Reconciliacao.md",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-04_Relatorio_Reconciliacao.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-05_Cadeia_Custodia_I03-R05.md",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Cadeia_Custodia_I03-R05.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-05_Delta_Proposto_Nao_Aplicado.csv",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Delta_Proposto_Nao_Aplicado.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-05_Eventos_Conflitos_3_7.csv",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Eventos_Conflitos_3_7.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-05_Handoff_Auditoria_Independente.md",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Handoff_Auditoria_Independente.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-05_Ledger_Atos_Humanos.csv",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Ledger_Atos_Humanos.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-05_Mapa_Pendencias_Dirigidas.md",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Mapa_Pendencias_Dirigidas.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-05_Registro_Fontes_Consultas_Hashes.csv",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Registro_Fontes_Consultas_Hashes.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "D2-REC-05_Relatorio_Recuperacao_Probatoria.md",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/D2-REC-05_Relatorio_Recuperacao_Probatoria.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "KADEMIS_D2-REC-04_AUD-D2-04_Parecer_APROVADO.md",
+      "resolved": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/KADEMIS_D2-REC-04_AUD-D2-04_Parecer_APROVADO.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "../../../domain/candidates/Kademis_I03-R05_Matriz_Candidata_488x15_v0.1.csv",
+      "resolved": "docs/domain/candidates/Kademis_I03-R05_Matriz_Candidata_488x15_v0.1.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "../lote-08-historico-e-suf/README.md",
+      "resolved": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "../../d2-suf-01/README.md",
+      "resolved": "docs/governance/d2-suf-01/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "../../../domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md",
+      "resolved": "docs/domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "../lote-07-trilha-d2-rec-03/README.md",
+      "resolved": "docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "../lote-02-invariantes/README.md",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "../../Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "resolved": "docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "../../Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "resolved": "docs/governance/Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md",
+      "target": "../../../../README.md",
+      "resolved": "README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "KADEMIS_I03-R03_Matriz_Primaria_Estados_Fase_3_7_20261010.md",
+      "resolved": "docs/governance/evidence/lote-03-fontes-dominio/KADEMIS_I03-R03_Matriz_Primaria_Estados_Fase_3_7_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "KADEMIS_I03-R03_Matriz_Transicoes_Documentadas_Fase_3_7_20261010.md",
+      "resolved": "docs/governance/evidence/lote-03-fontes-dominio/KADEMIS_I03-R03_Matriz_Transicoes_Documentadas_Fase_3_7_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "KADEMIS_I03-R03_Relatorio_Primario_Estados_Dominio_Fase_3_7_20261010.md",
+      "resolved": "docs/governance/evidence/lote-03-fontes-dominio/KADEMIS_I03-R03_Relatorio_Primario_Estados_Dominio_Fase_3_7_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "KADEMIS_I03-R04-C_Matriz_Primaria_Objetos_Dominio_Fase_3_3_20261010.md",
+      "resolved": "docs/governance/evidence/lote-03-fontes-dominio/KADEMIS_I03-R04-C_Matriz_Primaria_Objetos_Dominio_Fase_3_3_20261010.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "Matriz_Primaria_I03-R04_Glossario.md",
+      "resolved": "docs/governance/evidence/lote-03-fontes-dominio/Matriz_Primaria_I03-R04_Glossario.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "../../../domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md",
+      "resolved": "docs/domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "../lote-02-invariantes/README.md",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "../../../../README.md",
+      "resolved": "README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "../../../playbook/Kademis_Master_Development_Playbook_v1.0.md",
+      "resolved": "docs/playbook/Kademis_Master_Development_Playbook_v1.0.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "../../Kademis_Governanca_v1.0.md",
+      "resolved": "docs/governance/Kademis_Governanca_v1.0.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "../../Kademis_Politica_Continuidade_Documental_v0.1.md",
+      "resolved": "docs/governance/Kademis_Politica_Continuidade_Documental_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "../../Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "resolved": "docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "../../Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "resolved": "docs/governance/Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "../../../domain/candidates/Kademis_I03-R05_Matriz_Candidata_488x15_v0.1.csv",
+      "resolved": "docs/domain/candidates/Kademis_I03-R05_Matriz_Candidata_488x15_v0.1.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "../../d2-suf-01/README.md",
+      "resolved": "docs/governance/d2-suf-01/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "../lote-01/README.md",
+      "resolved": "docs/governance/evidence/lote-01/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "target": "../lote-02-invariantes/README.md",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-04-historico-temporal/README.md",
+      "target": "KADEMIS_Relatorio_Completo_Continuidade_Fase_3_20261009.md",
+      "resolved": "docs/governance/evidence/lote-04-historico-temporal/KADEMIS_Relatorio_Completo_Continuidade_Fase_3_20261009.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-04-historico-temporal/README.md",
+      "target": "library_Kademis_Fase_3_9_Auditoria_Documental_Historico.md",
+      "resolved": "docs/governance/evidence/lote-04-historico-temporal/library_Kademis_Fase_3_9_Auditoria_Documental_Historico.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-04-historico-temporal/README.md",
+      "target": "../../Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "resolved": "docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-04-historico-temporal/README.md",
+      "target": "../../Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "resolved": "docs/governance/Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-04-historico-temporal/README.md",
+      "target": "../../d2-suf-01/README.md",
+      "resolved": "docs/governance/d2-suf-01/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-04-historico-temporal/README.md",
+      "target": "../lote-02-invariantes/README.md",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-04-historico-temporal/README.md",
+      "target": "../lote-03-fontes-dominio/README.md",
+      "resolved": "docs/governance/evidence/lote-03-fontes-dominio/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-04-historico-temporal/README.md",
+      "target": "../../../../README.md",
+      "resolved": "README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "KADEMIS_I03-R01_Recuperacao_Primaria_INV-01-110.md",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/KADEMIS_I03-R01_Recuperacao_Primaria_INV-01-110.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "KADEMIS_PSD-I03_Reconciliacao_I03-R01_20261009.md",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/KADEMIS_PSD-I03_Reconciliacao_I03-R01_20261009.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "01_Relatorio_Cotejo_Invariantes.md",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/01_Relatorio_Cotejo_Invariantes.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "02_Matriz_Focal_47.csv",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/02_Matriz_Focal_47.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "01_Registro_Decisao_e_Compromisso.md",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/01_Registro_Decisao_e_Compromisso.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "02_Registro_Estavel_Limitacoes_Conhecidas.csv",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/02_Registro_Estavel_Limitacoes_Conhecidas.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "../../../../README.md",
+      "resolved": "README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "../../../playbook/Kademis_Master_Development_Playbook_v1.0.md",
+      "resolved": "docs/playbook/Kademis_Master_Development_Playbook_v1.0.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "../../Kademis_Governanca_v1.0.md",
+      "resolved": "docs/governance/Kademis_Governanca_v1.0.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "../../Kademis_Politica_Continuidade_Documental_v0.1.md",
+      "resolved": "docs/governance/Kademis_Politica_Continuidade_Documental_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "../../Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "resolved": "docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "../../Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "resolved": "docs/governance/Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "../../../domain/candidates/Kademis_I03-R05_Matriz_Candidata_488x15_v0.1.csv",
+      "resolved": "docs/domain/candidates/Kademis_I03-R05_Matriz_Candidata_488x15_v0.1.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "../../d2-suf-01/README.md",
+      "resolved": "docs/governance/d2-suf-01/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "target": "../lote-01/README.md",
+      "resolved": "docs/governance/evidence/lote-01/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "Kademis_Stakeholders_v0.1_PROPOSTA.md",
+      "resolved": "docs/governance/evidence/lote-08-historico-e-suf/Kademis_Stakeholders_v0.1_PROPOSTA.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "Kademis_Master_Development_Playbook_v0.1.md",
+      "resolved": "docs/governance/evidence/lote-08-historico-e-suf/Kademis_Master_Development_Playbook_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "KADEMIS_D2-SUF-01_A_Manifesto_SHA256_20261014.txt",
+      "resolved": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A_Manifesto_SHA256_20261014.txt",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "KADEMIS_D2-SUF-01_A_Matriz_35_Itens_L3-L6_20261014.csv",
+      "resolved": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A_Matriz_35_Itens_L3-L6_20261014.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "KADEMIS_D2-SUF-01_A_Atos_Humanos_L3-L6_20261014.csv",
+      "resolved": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A_Atos_Humanos_L3-L6_20261014.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "KADEMIS_D2-SUF-01_A_Relatorio_Recuperacao_Focal_L3-L6_20261014.md",
+      "resolved": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A_Relatorio_Recuperacao_Focal_L3-L6_20261014.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "KADEMIS_D2-SUF-01_A2_Relatorio_Execucao_Excepcional_Fase_3_10_1_20261015.md",
+      "resolved": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A2_Relatorio_Execucao_Excepcional_Fase_3_10_1_20261015.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "KADEMIS_D2-SUF-01_A2_Manifesto_SHA256_20261015.txt",
+      "resolved": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A2_Manifesto_SHA256_20261015.txt",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "KADEMIS_D2-SUF-01_A2_Matriz_Recuperacao_L4_L5_L6_20261015.csv",
+      "resolved": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2-SUF-01_A2_Matriz_Recuperacao_L4_L5_L6_20261015.csv",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "KADEMIS_D2_SUF_B_Relatorio_Inspecao_Primaria_Fase_3_8_EVT_EXEC_10_20261015.md",
+      "resolved": "docs/governance/evidence/lote-08-historico-e-suf/KADEMIS_D2_SUF_B_Relatorio_Inspecao_Primaria_Fase_3_8_EVT_EXEC_10_20261015.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "../../../playbook/Kademis_Master_Development_Playbook_v1.0.md",
+      "resolved": "docs/playbook/Kademis_Master_Development_Playbook_v1.0.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "../../../product/Kademis_Stakeholders_v0.1.md",
+      "resolved": "docs/product/Kademis_Stakeholders_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "../../../brand/Kademis_Diretriz_Identidade_Visual_v0.1.md",
+      "resolved": "docs/brand/Kademis_Diretriz_Identidade_Visual_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "../../../domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md",
+      "resolved": "docs/domain/candidates/Kademis_D2_Adendo_Proveniencia_EVT-EXEC-10_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "../../d2-suf-01/README.md",
+      "resolved": "docs/governance/d2-suf-01/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "../lote-02-invariantes/README.md",
+      "resolved": "docs/governance/evidence/lote-02-invariantes/README.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "../../Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "resolved": "docs/governance/Kademis_Registro_Sincronizacao_Gate_3_BF-R02_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "../../Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "resolved": "docs/governance/Kademis_Indice_Proveniencia_Pre_Gate_3_v0.1.md",
+      "exists": true
+    },
+    {
+      "from": "docs/governance/evidence/lote-08-historico-e-suf/README.md",
+      "target": "../../../../README.md",
+      "resolved": "README.md",
+      "exists": true
+    }
+  ]
+}
