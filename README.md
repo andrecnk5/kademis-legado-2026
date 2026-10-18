@@ -39,6 +39,8 @@ Neste momento:
 
 - [Evidências documentais — Lote 04](docs/governance/evidence/lote-04-historico-temporal/README.md) — auditoria histórica 3.9 e continuidade de 09/10, com precedência dos controles posteriores.
 
+- [Evidências documentais — Lote 05](docs/governance/evidence/lote-05-eventos/README.md) — matriz, relatório e handoff históricos de eventos I03-R02, com alcance e ressalvas preservados.
+
 ## Princípios de trabalho
 
 O projeto evolui por fases, checklists e gates de aprovação. Decisões relevantes devem ser rastreáveis e validadas antes de se tornarem baseline.
