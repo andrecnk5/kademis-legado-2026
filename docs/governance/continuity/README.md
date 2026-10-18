@@ -29,6 +29,10 @@ Fotografia de referência: 18/10/2026, main `40bc0afadc2347424f5451dffa988eefdea
 
 Os lotes são organização editorial de preservação, não novos IDs canônicos ou aprovações de domínio. A data do relatório histórico pode anteceder um ato posterior: não executar STOP, pedido de coleta ou agenda antiga automaticamente. Preservar o documento e consultar o controle posterior.
 
+## Custódia e Figma — orientação posterior
+
+André definiu guarda sob sua responsabilidade no Google Drive pessoal e enquadrou os arquivos Figma citados como projeto antigo para consulta. A cópia de112arquivos foi enviada, baixada e verificada. Consultar o [registro de custódia e limites](Custodia_GoogleDrive_e_Figma_Historico.md). Não tratar destino/custodiante dessa cópia ou design vigente como indefinidos pela mera leitura de fotografias anteriores.
+
 ## Próxima ação permitida
 
 Continuar confronto do corpus material e custódia, preservação do que já existe e preparação dos contratos/roteiros D3–D5 dentro da autorização contínua. Nenhuma nova decisão substantiva ou aprovação humana é criada por essa autorização. Não iniciar Fase 4, escolher stack ou encerrar pendências formais por inferência.
