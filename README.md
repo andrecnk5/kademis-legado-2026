@@ -47,6 +47,8 @@ Neste momento:
 
 - [Evidências documentais — Lote 08](docs/governance/evidence/lote-08-historico-e-suf/README.md) — propostas históricas e fontes A/A2/B, com precedência das decisões posteriores.
 
+- [Evidências documentais — Lote 09](docs/governance/evidence/lote-09-trilha-d2-rec-04-05/README.md) — deltas, inventários e relatórios históricos D2-REC-04/05.
+
 ## Princípios de trabalho
 
 O projeto evolui por fases, checklists e gates de aprovação. Decisões relevantes devem ser rastreáveis e validadas antes de se tornarem baseline.
