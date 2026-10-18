@@ -43,6 +43,8 @@ Neste momento:
 
 - [Evidências documentais — Lote 06](docs/governance/evidence/lote-06-regras-rdoc/README.md) — relatórios históricos complementares RDOC-01/01A/01B, com sequência de reconciliação preservada.
 
+- [Evidências documentais — Lote 07](docs/governance/evidence/lote-07-trilha-d2-rec-03/README.md) — matrizes, deltas, proveniência e auditoria histórica D2-REC-03, com controles posteriores.
+
 ## Princípios de trabalho
 
 O projeto evolui por fases, checklists e gates de aprovação. Decisões relevantes devem ser rastreáveis e validadas antes de se tornarem baseline.
