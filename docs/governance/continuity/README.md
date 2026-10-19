@@ -47,3 +47,7 @@ A [instrução de avaliação](Preparacao_Avaliacao_Sem_Chats.md) fixa corpus, c
 ## Avaliação executada — 18/10/2026
 
 O [resultado pelo próprio executor](Resultado_Avaliacao_Executor.md) demonstra reconstrução do estado publicado para continuidade documental delimitada. A [verificação](Resultado_Avaliacao_Executor_Verificacao.json) compara 115 arquivos à árvore remota. Não foi teste independente sem contexto; não encerra D5 nem o espelho integral. O formulário anterior permanece como modelo vazio, não como alegação de que nenhuma avaliação pelo executor ocorreu.
+
+## Acervo conferido — 19/10/2026
+
+[Conferência e fronteiras do acervo](Conferencia_Acervo_20261019.md), [314 registros de metadados](Inventario_Acervo_314_20261019.csv) e [Lote11 — nove fontes RDOC/CCD/continuidade](../evidence/lote-11-rdoc-ccd-e-continuidade/README.md). Metadados não equivalem a314lacunas ou fontes lidas integralmente. O lote preserva material existente, sem refazer recuperação.
