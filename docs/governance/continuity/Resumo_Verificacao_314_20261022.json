@@ -1,0 +1,21 @@
+{
+  "reference_commit": "a9a59d7b19f16ec2084fa3e7c5f910b787e486c3",
+  "files_accessed": 314,
+  "bytes": 24223973,
+  "unique_sha256": 289,
+  "duplicate_identities_beyond_first": 25,
+  "classes": {
+    "ARQUIVO_EXTERNO_SEM_IDENTIDADE_NA_MAIN": 170,
+    "IDENTICO_NO_GITHUB": 59,
+    "DUPLICATA_EXTERNA_EXATA": 13,
+    "PACOTE_EXTERNO_SEM_MEMBRO_IDENTICO_NA_MAIN": 37,
+    "PACOTE_COM_MEMBROS_PUBLICADOS": 35
+  },
+  "zip_count": 75,
+  "zip_members_including_nested": 3835,
+  "zip_member_matches_remote": 1279,
+  "zip_errors": [],
+  "remote_files_with_external_identical_bytes": 47,
+  "external_nonzip_files_also_inside_packages": 120,
+  "unique_nested_member_sha256": 518
+}

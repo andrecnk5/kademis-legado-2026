@@ -51,3 +51,8 @@ O [resultado pelo próprio executor](Resultado_Avaliacao_Executor.md) demonstra 
 ## Acervo conferido — 19/10/2026
 
 [Conferência e fronteiras do acervo](Conferencia_Acervo_20261019.md), [314 registros de metadados](Inventario_Acervo_314_20261019.csv) e [Lote11 — nove fontes RDOC/CCD/continuidade](../evidence/lote-11-rdoc-ccd-e-continuidade/README.md). Metadados não equivalem a314lacunas ou fontes lidas integralmente. O lote preserva material existente, sem refazer recuperação.
+
+## Triagem por bytes — 22/10/2026
+
+[Resultado dos314arquivos](Resultado_Triagem_314_20261022.md), [matriz de identidade e destino](Triagem_Acervo_314_20261022.csv) e [resumo técnico](Resumo_Verificacao_314_20261022.json). Os314itens foram acessados em bytes;59têm correspondência exata com a main. Classificação técnica não encerra revisão de materialidade ou missão.
+
