@@ -56,3 +56,8 @@ O [resultado pelo próprio executor](Resultado_Avaliacao_Executor.md) demonstra 
 
 [Resultado dos314arquivos](Resultado_Triagem_314_20261022.md), [matriz de identidade e destino](Triagem_Acervo_314_20261022.csv) e [resumo técnico](Resumo_Verificacao_314_20261022.json). Os314itens foram acessados em bytes;59têm correspondência exata com a main. Classificação técnica não encerra revisão de materialidade ou missão.
 
+
+
+## Corpus e histórico recuperáveis — 23/10/2026
+
+[Resultado e handoff](Resultado_Corpus_e_Continuidade_20261023.md), [custódia privada e restauração](Custodia_Corpus_e_Git_20261023.md), [saldo das314identidades](Saldo_Paridade_Corpus_314_20261023.csv), [revisão focal50](Revisao_Material_50_20261023.csv) e [Lote12](../evidence/lote-12-processos-e-semantica-institucional/README.md). Preservação do recorte e restauração técnica demonstradas; completude global dos chats e teste independente não certificados.

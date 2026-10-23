@@ -1,0 +1,17 @@
+{
+  "objects": {
+    "blob": 171,
+    "tree": 193,
+    "commit": 90
+  },
+  "refs": 69,
+  "commits": 90,
+  "fsck_exit": 0,
+  "head": "9819cac1c45df4f78cdaad9255de21b0a0d3c3cf",
+  "restored_refs_equal": 69,
+  "restored_main_files": 132,
+  "restored_fsck_exit": 0,
+  "readme_relative_links": 233,
+  "broken_relative_links": [],
+  "scope": "69 advertised refs including35heads and34PRheads; no tags returned; all90reachable commits"
+}
