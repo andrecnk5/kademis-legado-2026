@@ -16,7 +16,7 @@ Neste momento:
 - a **Fase 1 — Visão, Problema e Estratégia** está **CONCLUÍDA — Gate 1 APROVADO**;
 - o **Product Charter v0.1** está integrado à `main` como **APROVADO — BASELINE ESTRATÉGICO DA FASE 1**;
 - a **Fase 2 — Negócio e Stakeholders** está **CONCLUÍDA — Gate 2 APROVADO**;
-- a **Fase 3 — Descoberta do Domínio** possui trabalho conceitual documentado nas subfases 3.1–3.10, com decisões validadas e ressalvas preservadas; o **Gate 3 foi APROVADO COM RESSALVAS NÃO BLOQUEANTES** em 10/10/2026; o controle formal mantém **14 identificadores abertos e 2 encerramentos formalmente deliberados**; a **Fase 4 não foi iniciada** e depende de autorização específica;
+- a **Fase 3 — Descoberta do Domínio** possui trabalho conceitual documentado nas subfases 3.1–3.10, com decisões validadas e ressalvas preservadas; o **Gate 3 foi APROVADO COM RESSALVAS NÃO BLOQUEANTES** em 10/10/2026; o controle formal mantém **14 identificadores abertos e 2 encerramentos formalmente deliberados**; a **Fase 4 — Estratégia Multi-Instituição foi INICIADA** por autorização expressa em 24/10/2026; a estratégia está **EM ELABORAÇÃO** e o **Gate 4 NÃO FOI AVALIADO**;
 - a arquitetura técnica e a stack ainda não foram escolhidas;
 - nenhuma estrutura de frontend, backend, banco ou infraestrutura foi criada.
 
@@ -60,3 +60,11 @@ O projeto evolui por fases, checklists e gates de aprovação. Decisões relevan
 ## Licença
 
 Nenhuma licença open source foi definida neste estágio.
+
+## Fase 4 — continuidade
+
+- [Registro de abertura — 24/10/2026](docs/governance/phase-04/Registro_Abertura_Fase_4_20261024.md)
+- [Estratégia Multi-Instituição v0.1](docs/product/Kademis_Estrategia_MultiInstituicao_v0.1.md) — EM ELABORAÇÃO / PROPOSTA INICIAL
+- [Instrução para a conversa própria da Fase 4](docs/governance/phase-04/Instrucao_Novo_Chat_Fase_4.md)
+
+As referências anteriores a Fase 4 não iniciada são fotografias históricas. A abertura posterior não altera Gate 3, PSD-I02 ou os limites de prova do espelhamento.
